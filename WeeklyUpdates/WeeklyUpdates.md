@@ -8,19 +8,35 @@
 # Week 38
 <a name='week38'> </a>
 **What helped you this week?**
-- 
+- The git repositories from Veronika's previous students! Seeing how they approached downloading the PDFs, reading the PDFs, and getting text from the PDFs has been immensely helpful. 
+    - Akkoç, A. (2023). PublicDatasets [Jupyter Notebook]. https://github.com/madprogramer/PublicDatasets (Original work published 2022)
+    - Sourget, T. (2023). TheoSourget/DDSA_Sourget: Repository used during my travel at the ITU of Copenhagen in March 2023 [Computer software]. https://github.com/TheoSourget/DDSA_Sourget
 
 **What did you achieve?**
-- 
+- I downloaded all articles published in NeuroImage 2022. 
+    - I tried using OpenAlex first, but the PDFs were corrupted upon downloading (see git: Data/OpenAlexAPI). 
+    - The Institution token that I was given from Elsevier seems to have been the key to giving me access to using their API, so I've downloaded the papers using it (see git: Data/ElsevierAPI.  
+- I have started the process of extracting the datasets from the articles. I'm currently working on step 2 (see git: Data/Datasets.ipynb). 
+    - Step 1: Understand which section might mention the dataset. 
+    - Step 2: Isolate the section and extract the text (and make sure this isolation works properly). 
+    - Step 3: Isolate the dataset within the section 
+        - Some only mention the title and others mention both title and have a link. Sometimes, there are multiple links, not all of which point to the code. 
 
 **What did you struggle with?**
-- 
+- Writing the code (figuring on how to read the PDF, get text sections from the PDF - getting the right section that hopefully contains a mention of the dataset)
+- I feel like I've fallen behind, and I'm afraid to find out that that's true. 
+    - I've not yet written anything for the report itself yet, which is stressing me out. I have taken notes for the methodology section of what I've done so far, and I have taken notes for all the texts I've read and made some considerations regarding what's important to mention, but nothing is on paper yet. 
 
 **What would you like to work on next week?**
-- 
+- Continuing - and preferably finishing - the extraction of the datasets from the articles. 
+- Settling on a strategy for the next step of tracking how many research papers have used the datasets used in the NeuroImaging articles. 
 
 **Where do you need help from Veronika?**
-- 
+- I have a couple of methodological questions and issues that arose this week: 
+    - One of the random articles I skimmed ( to investigate where they mention the datasets) was not actually OA, despite Elsevier mentioning that NeuroImage is OA (I opened it in another browser, and I could only read the abstract and references). 
+    - QUESTION: How do we treat reviews that summarizes data but does not contain new data? Is the reuse of a dataset not also the same as not containing new data?
+        - In 10.1016/j.neuroimage.2022.119110, it says: "The review summarizes data but does not contain new data." - other reviews might mention the datasets they reviewed in a 'Data availability statement', so how do I approach this? 
+    - 
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
 - 
@@ -152,10 +168,11 @@ Finding the datasets
 - Other?
 
 
+---------------------------------------------------------------------------------
 
 
-# Week 39
-<a name='week39'> </a>
+# Week XX
+<a name='weekXX'> </a>
 **What helped you this week?**
 - 
 
