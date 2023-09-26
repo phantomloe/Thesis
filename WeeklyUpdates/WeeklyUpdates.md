@@ -1,12 +1,41 @@
 # Weekly logs 
+- [Week 39](#week39
 - [Week 38](#week38)
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
 
+<a name='week39'></a>
+# Week 39
+**What helped you this week?**
+- 
 
-# Week 38
+**What did you achieve?**
+- I finalized my initial exploration of the random sample of papers and put the ground truth into a csv file (see data/articles_groundtruth.csv and code/articles_groundtruth.ipynb)
+- 
+
+**What did you struggle with?**
+- 
+
+**What would you like to work on next week?**
+- 
+
+**Where do you need help from Veronika?**
+- Regarding the type of research paper 
+    - I'm unsure if the studies that are reviewed in this paper (https://doi.org/10.1016/j.neuroimage.2022.119646) should be considered and counted as a dataset or not. As of now, I included all 12 studies as datasets, but I don't think they should be considered as such, especially since the authors write in the "Data & Code Availability" section: "Not applicable."
+    - I think that review or commentary (or similar) articles are different from articles that analyse data, build models, hypothesize etc., and I feel that the distinction is important for my assignment, as I'm focusing on dataset re-use. When extracting the datasets from the random sample of articles (see data/articles_groundtruth.csv and code/articles_groundtruth.ipynb), a large number of the extractions are not datasets per se, but articles used for analysis (10.1016/j.neuroimage.2022.119646 analyses articles whereas 10.1016/j.neuroimage.2022.119443 analyses and links datasets) - but I don't know how and where to draw the line. 
+- Where can I share the articles I've downloaded with you?
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- 
+
+
+
 <a name='week38'> </a>
+# Week 38
 **What helped you this week?**
 - The git repositories from Veronika's previous students! Seeing how they approached downloading the PDFs, reading the PDFs, and getting text from the PDFs has been immensely helpful. 
     - Akkoç, A. (2023). PublicDatasets [Jupyter Notebook]. https://github.com/madprogramer/PublicDatasets (Original work published 2022)
@@ -36,17 +65,25 @@
     - One of the random articles I skimmed ( to investigate where they mention the datasets) was not actually OA, despite Elsevier mentioning that NeuroImage is OA (I opened it in another browser, and I could only read the abstract and references). 
     - QUESTION: How do we treat reviews that summarizes data but does not contain new data? Is the reuse of a dataset not also the same as not containing new data?
         - In 10.1016/j.neuroimage.2022.119110, it says: "The review summarizes data but does not contain new data." - other reviews might mention the datasets they reviewed in a 'Data availability statement', so how do I approach this? 
-    - 
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
-- 
+- Implement a way to test and validate my methods and approach 
+    - Have someone else test my criteria and results 
+- Think of a way to categorize the papers based on how they work with the data 
+    - Present datasets
+    - Use datasets in reviews
+    - Use datasets for modeling 
+    - Is a dataset mentioned for a different reason? 
+    - Etc.
+- Deepen understanding of how the datasets are referenced in the articles - this is closely tied to the idea of using my work on articles from other journals. 
 
 ******************************For next time******************************
-- 
+- Continue work on extracting the datasets from the articles 
+- Study the repository and take note of the csv's: Sourget, T. (2023). TheoSourget/DDSA_Sourget: Repository used during my travel at the ITU of Copenhagen in March 2023 [Computer software]. https://github.com/TheoSourget/DDSA_Sourget
 
 
-# Week 37 
 <a name='week37'> </a>
+# Week 37 
 **What helped you this week?**
 - ChatGPT helped me explore lots of different pieces of code to try and extract the articles from NeuroImage.
 
@@ -80,8 +117,8 @@
 - Code begun for the dataset extraction 
 
 
-# Week 36 
 <a name='week36'> </a>
+# Week 36 
 **What helped you this week?**
 - Veronika really helped a lot by sending a proposal by email on how to narrow in the scope. Her suggestion on investigating tools/software to make dataset reviews live outside of the published papers is an excellent idea, and I think it could be a good project.
 
@@ -115,9 +152,8 @@
 - Draft for methodology has begun
 - Journals from NeuroImage 2022 has been pulled - preferably the datasets have been located and listed as well.
 
-
-# Week 35 
 <a name='week35'></a>
+# Week 35 
 **What helped you this week?**
 - I asked everyone in my life what project to pick.
 - 10-hour sound of rain videos on YouTube.
@@ -170,9 +206,8 @@ Finding the datasets
 
 ---------------------------------------------------------------------------------
 
-
-# Week XX
 <a name='weekXX'> </a>
+# Week XX
 **What helped you this week?**
 - 
 
