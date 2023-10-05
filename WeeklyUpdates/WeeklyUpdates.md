@@ -1,37 +1,75 @@
 # Weekly logs 
+- [Week 40](#week40)
 - [Week 39](#week39
 - [Week 38](#week38)
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
 
+<a name='week40'></a>
+# Week 40 
+
+**What did you achieve?**
+- I added a 10th article to my groundtruth sample ('Code/articles_groundtruth_v2.ipynb' and 'articles_groundtruth.csv')
+- I worked in 'Code/datasets_v2.ipynb', but I don't feel like I got very far. 
+
+**What did you struggle with?**
+- Extracting the datasets (URLs and capitalized words, e.g., 'Human Connectome Project') from the text sections. 
+    - I've been working on writing regex expressions to split text sections into sentences, extract capitalized words, and URLs - the expressions work well with the groundtruth sample now, but scrolling through the extracted text for other articles, I can see it is not working properly. Late Thursday, I decided to see if there exist any libraries I can use, and I found one called 'urlextract' (https://pypi.org/project/urlextract/) that I will try Friday. 
+- Personal issues. 
+
+**What would you like to work on next week?**
+- Extracting the datasets from the text sections that match the 'availability' pattern. 
+    - Group the sentences that mention 
+        - **data**, e.g., data(base, set), image(s), (neuro)map(s), DOI(s), atlas, (freely available)
+        - **code**, e.g., Code, code(s)
+        - **other**, e.g., tool(kit, box), scripts, results, algorithm, software, package, plugin, function, analysis 
+    - Separate the articles without any URLs or capitalized words or mentions of **data** that instead make mentions of 'request' (or similar).      
+- Make a plan for investigating the reuse of the datasets I extract 
+
+**Where do you need help from Veronika?**
+- I'm not really sure. I'm not sure if I've approached this problem properly, or if I just need to sit with it for longer and explore different possible solutions. 
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- The goal for week 41 and 42: 
+    - Draft for introduction, state-of-the-art, and the methodology (what I can currently put down) 
+    - Plan 
+
+
 <a name='week39'></a>
 # Week 39
-**What helped you this week?**
-- 
 
 **What did you achieve?**
 - I finalized my initial exploration of the random sample of papers and put the ground truth into a csv file (see data/articles_groundtruth.csv and code/articles_groundtruth.ipynb)
-- 
+- I extracted the text sections from all articles that should contain the dataset(s) (or information about the dataset(s)) used in the article. The majority (500+/834) of the text sections are pulled from a 'Data availability' (or similar title) section in the articles, and I'm going to start extracting the datasets from these texts. 
 
 **What did you struggle with?**
-- 
+- Finalizing the code for the text extraction - I'm unsure if I've picked the proper way to do it. 
+- Figuring out how to extract the datasets from the text sections. 
 
 **What would you like to work on next week?**
-- 
+- Extracting the datasets from the text sections - preferably, I'll have the datasets from the 500+ articles. 
 
 **Where do you need help from Veronika?**
 - Regarding the type of research paper 
     - I'm unsure if the studies that are reviewed in this paper (https://doi.org/10.1016/j.neuroimage.2022.119646) should be considered and counted as a dataset or not. As of now, I included all 12 studies as datasets, but I don't think they should be considered as such, especially since the authors write in the "Data & Code Availability" section: "Not applicable."
     - I think that review or commentary (or similar) articles are different from articles that analyse data, build models, hypothesize etc., and I feel that the distinction is important for my assignment, as I'm focusing on dataset re-use. When extracting the datasets from the random sample of articles (see data/articles_groundtruth.csv and code/articles_groundtruth.ipynb), a large number of the extractions are not datasets per se, but articles used for analysis (10.1016/j.neuroimage.2022.119646 analyses articles whereas 10.1016/j.neuroimage.2022.119443 analyses and links datasets) - but I don't know how and where to draw the line. 
 - Where can I share the articles I've downloaded with you?
+- Proper plan for extracting the datasets from the text sections. 
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
-- 
+- Plan annotation scheme - Veronika and Amelia can help annotate and classify documents and extract datasets based on my scheme. 
+- Rework 'articles_groundtruth.ipynb' 
+    - Check if the datasets from the sample set are all correct.  
+    - Classify the dataset usage (is it being presented? used in an experiement? discussed or analysed? mentioned as an example? other?) 
 
 ******************************For next time******************************
-- 
-
+- Annotation scheme 
+- Continue working on extracting the datasets from the text sections 
+- Classify the documents? 
 
 
 <a name='week38'> </a>
