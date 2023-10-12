@@ -2,7 +2,18 @@ pandas
 numpy
 seaborn
 
+# OpenAlex's API 
 openalexapi  
+
+# Download and get text from PDFs 
 pypdf
 
-elsapy 
+# URL-extraction 
+urlextract
+# Requirements for url extract to work 
+idna
+uritools
+platformdirs
+dnspython
+
+# 

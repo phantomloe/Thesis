@@ -1,10 +1,21 @@
 # Weekly logs 
+- [Week 41](#week41)
 - [Week 40](#week40)
 - [Week 39](#week39
 - [Week 38](#week38)
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
+
+<a name='week41'></a>
+# Week 41 
+
+I was sick for the entire duration of week 41 with a painful stomach flu, so I did not do any work. 
+
+******************************For next time******************************
+- Extract and process all URLs from the articles. 
+- Plan the exploration of dataset reuse using OpenAlex 
+
 
 <a name='week40'></a>
 # Week 40 
@@ -30,13 +41,9 @@
 **Where do you need help from Veronika?**
 - I'm not really sure. I'm not sure if I've approached this problem properly, or if I just need to sit with it for longer and explore different possible solutions. 
 
-**What are the agreements after this meeting?** (to fill in after the meeting)
-- 
-
 ******************************For next time******************************
 - The goal for week 41 and 42: 
     - Draft for introduction, state-of-the-art, and the methodology (what I can currently put down) 
-    - Plan 
 
 
 <a name='week39'></a>
