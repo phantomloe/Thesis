@@ -1,4 +1,5 @@
 # Weekly logs 
+- [Week 42](#week42)
 - [Week 41](#week41)
 - [Week 40](#week40)
 - [Week 39](#week39
@@ -6,6 +7,47 @@
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
+
+
+
+<a name='week42'> </a>
+# Week 42
+**What helped you this week?**
+- A blogpost about doing unsupervised text classification using pre-trained word embeddings (Halford 2022). 
+
+**What did you achieve?**
+- I redid and finalized the extraction of all URLs and the sentences in which they appear for all the articles. 
+- I set aside 30 articles to validate my work. 
+    - As soon as the sentences have been classified, I will manually extract the URLs from ten of these thirty, extract the sentences, and classify the sentences. As ten articles might be a lot to ask of other people, I might ask more than two. 
+- I have started to read about and implement code to perform text classification using pre-trained word embeddings (seeing as I don't have any labelled data I can train a model with). My thinking is that by seeing how closely connected the sentences are to the class concept of 'data', I can identify the sentences - and thereby the URLs - that point to specific datasets. 
+    - E.g., the sentence ""Subjects and data 200 unrelated subjects were selected from the Human Con-nectome Project (HCP) 1200 Subjects Data Release with avail-able resting (task-free) and task fMRI data from a 3T MRI scan-ner (https://db.humanconnectome.org/data/projects/HCP_1200)." are about a dataset, whereas "We used FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/) and AFNI (https://afni.nimh.nih.gov/) for additional fMRI preprocessing." are not about datasets. 
+
+**What did you struggle with?**
+- Downloading a pretrained model for text classification. 
+    - **spaCy**: I started out trying to download and use spaCy's "en_core_web_lg" model (because that's what Halford used; see above), but upon downloading the model I checked if it had been properly installed, which it hadn't. The length of the vocabulary was less than 800 words, which was not correct. 
+    - **fastText**: For my classification, I want to build a *class concept* (based on the suggestions in Kosar et al. 2022), and I decided to pick a static word embedding to get similar words (Birundi & Devi 2021). However, they offer different pretrained models on their website, and the one I picked returned odd similar words (I used the English word vectors from this website https://fasttext.cc/docs/en/crawl-vectors.html, originally created by Grave et al. 2018. 
+- Deciding on the type of pretrained model to use. 
+    - Based on some of the literature I've read so far, the recent development is the use of *contextualized word embedding* (exemplified by e.g., ELMo and BERT) as opposed to *static word embedding* (exemplified by e.g., Word2Vec and GloVe) (Birunda & Devi 2021, Kosar et al. 2022). I think the use of static word embedding makes sense to build a *class concept*, whereas contextualized embedding makes sense for classifying the sentences, but I'm not sure. 
+
+**What would you like to work on next week?**
+- Continue working on (and ideally completing) classifying the sentences containing the URLs. 
+
+**Where do you need help from Veronika?**
+- Discussing the things I've mentioned above in 'What did you achieve?' and 'What did you struggle with?'; i.e., classifying sentences using word embedding and pretrained models. 
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- 
+
+
+**References**
+- Birunda, S. S., & Devi, R. K. (2021). A Review on Word Embedding Techniques for Text Classification. In J. S. Raj, A. M. Iliyasu, R. Bestak, & Z. A. Baig (Eds.), Innovative Data Communication Technologies and Application Proceedings of ICIDCA 2020 (Vol. 59, pp. 267–281). Springer Singapore. https://doi.org/10.1007/978-981-15-9651-3
+- Grave, E., Bojanowski, P., Gupta, P., Joulin, A., & Mikolov, T. (2018). Learning Word Vectors for 157 Languages (arXiv:1802.06893). arXiv. https://doi.org/10.48550/arXiv.1802.06893)
+- Halford, M. (2020, October 3). Unsupervised text classification with word embeddings. https://maxhalford.github.io/blog/unsupervised-text-classification/
+- Kosar, A., Pauw, G. D., & Daelemans, W. (2022). Unsupervised Text Classification with Neural Word Embeddings. Computational Linguistics in the Netherlands Journal, 12, 165–181.
+
 
 <a name='week41'></a>
 # Week 41 

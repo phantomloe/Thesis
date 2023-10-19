@@ -8,12 +8,13 @@ openalexapi
 # Download and get text from PDFs 
 pypdf
 
-# URL-extraction 
+# URL-extraction
 urlextract
-# Requirements for url extract to work 
+# Requirements for urlextract to work 
 idna
 uritools
 platformdirs
 dnspython
 
-# 
+# Text classification using fastText's pretrained word embeddings
+fasttext
