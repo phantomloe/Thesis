@@ -16,5 +16,10 @@ uritools
 platformdirs
 dnspython
 
-# Text classification using fastText's pretrained word embeddings
-fasttext
+# Text classification using gensim and additional libraries for preprocessing 
+gensim
+language-check
+pycontractions
+
+# SciBert 
+--upgrade datasets transformers seqeval evaluate

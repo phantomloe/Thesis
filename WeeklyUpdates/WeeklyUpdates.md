@@ -1,12 +1,86 @@
 # Weekly logs 
+- [Week 44](#week44)
+- [Week 43](#week43)
 - [Week 42](#week42)
 - [Week 41](#week41)
 - [Week 40](#week40)
-- [Week 39](#week39
+- [Week 39](#week39)
 - [Week 38](#week38)
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
+
+
+<a name='week44'></a>
+# Week 44
+
+**What helped you this week?**
+- My friend helped manually extract URLs and sentences from ten research papers for my quality control.
+- My supervisor and Théo Sourget helped manually label sentences from 40 research articles for fine-tuning the SciBERT model.
+
+**What did you achieve?**
+- I extracted URLs and sentences from ten research papers. 
+- I manually labeled the sentences from 40 research articles.
+- 
+
+**What did you struggle with?**
+- 
+
+**What would you like to work on next week?**
+- 
+
+**Where do you need help from Veronika?**
+- 
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- Clean the datasets (as they are going to be used for searching using OpenAlex API) 
+
+
+
+<a name='week43'> </a>
+# Week 43
+**What helped you this week?**
+- The following two guides helped me figure out how to fine-tune SciBERT:
+  - https://medium.com/mlearning-ai/fine-tuning-bert-for-tweets-classification-ft-hugging-face-8afebadd5dbf
+  - https://huggingface.co/docs/transformers/tasks/sequence_classification
+
+**What did you achieve?**
+- I completed a labeling guide that two coders will be using to manually label a small portion of my data.
+- I implemented the code for the fine-tuning of SciBERT using the following two guides:
+    - https://medium.com/mlearning-ai/fine-tuning-bert-for-tweets-classification-ft-hugging-face-8afebadd5dbf
+    - https://huggingface.co/docs/transformers/tasks/sequence_classification
+
+**What did you struggle with?**
+- Writing the labeling guide; defining all of the labels properly, finding proper examples
+
+**What would you like to work on next week?**
+- Start the manual work that needs to be done for quality assurance
+    - Manually extract URLs and sentences
+    - Manually label extracted URLs and sentences 
+
+**Where do you need help from Veronika?**
+- I've found a pre-trained model called *Sci-BERT* that's trained on scientific articles (Beltagy et al. 2019), and it seems like it's a fair strategy to fine-tune such a model to my task of classifying sentences (Han et et al. 2021).
+    - To fine-tune the model, I need labeled data. 
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- Write a labeling guide for the two coders who will help me manually data.
+- Read Geiger, R. S., Cope, D., Ip, J., Lotosh, M., Shah, A., Weng, J., & Tang, R. (2021). “Garbage In, Garbage Out” Revisited: What Do Machine Learning Application Papers Report About Human-Labeled Training Data? Quantitative Science Studies, 2(3), 795–827. https://doi.org/10.1162/qss_a_00144
+- Explore Taguette (Rampin & Rampin 2021) for annotating the sentences containing URLs, using labels (to be presented in the labeling guide). 
+
+******************************For next time******************************
+- Manual extraction of URLs has been started and completed. 
+- Manual labeling of data has started.
+- Quality assurance of manual extraction of URLs completed.
+- Quality assurance of the fine-tuned Sci-BERT started?
+
+
+References: 
+- Beltagy, I., Lo, K., & Cohan, A. (2019). SciBERT: A Pretrained Language Model for Scientific Text (arXiv:1903.10676). arXiv. http://arxiv.org/abs/1903.10676
+- Han, X., Zhang, Z., Ding, N., Gu, Y., Liu, X., Huo, Y., Qiu, J., Yao, Y., Zhang, A., Zhang, L., Han, W., Huang, M., Jin, Q., Lan, Y., Liu, Y., Liu, Z., Lu, Z., Qiu, X., Song, R., … Zhu, J. (2021). Pre-trained models: Past, present and future. AI Open, 2, 225–250. https://doi.org/10.1016/j.aiopen.2021.08.002
+- Rampin, R., & Rampin, V. (2021). Taguette: Open-source qualitative data analysis. Journal of Open Source Software, 6(68), 3522. https://doi.org/10.21105/joss.03522
 
 
 

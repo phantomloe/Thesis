@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carolinevanglarsen/Desktop/Thesis/Code-git/Code/mlruns/0/9cd44be44c7b4f7eaac68c55d9c2a9f9/artifacts
+end_time: 1698416237649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cd44be44c7b4f7eaac68c55d9c2a9f9
+run_name: SciBERT_finetuned
+run_uuid: 9cd44be44c7b4f7eaac68c55d9c2a9f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698416026515
+status: 3
+tags: []
+user_id: carolinevanglarsen
