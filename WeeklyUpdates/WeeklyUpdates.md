@@ -15,28 +15,34 @@
 # Week 44
 
 **What helped you this week?**
-- My friend helped manually extract URLs and sentences from ten research papers for my quality control.
+- My friend helped manually extract URLs and sentences from ten research papers for my quality control ('Data/URL_extraction_QA/extractor1.csv' and 'Data/URL_extraction_QA/together.csv').
 - My supervisor and Théo Sourget helped manually label sentences from 40 research articles for fine-tuning the SciBERT model.
 
 **What did you achieve?**
 - I extracted URLs and sentences from ten research papers. 
 - I manually labeled the sentences from 40 research articles.
-- 
+- I wrote and completed the QA of the URL extraction ('Code/URL_extraction_QA.ipynb')
 
 **What did you struggle with?**
-- 
+- Figuring out how to properly investigate the URL extractions. 
 
 **What would you like to work on next week?**
-- 
+- Investigate the inter-annotator agreement for the labeling.
+- Fine-tune Sci-BERT with the labeled data.
+    - For all sentences, if the annotators disagreed on the label, I will pick the label that most annotators picked. If they picked three different labels, but two labels belong to the same label group, I will pick a random label from that label group. If they picked labels from all different label groups, I will pick a random label.
+- Generate a csv of the datasets used in NeuroImage that are referenced with URLs. 
 
 **Where do you need help from Veronika?**
-- 
+- How do I investigate the inter-annotator agreement for the labeling?
+    - Cohen’s kappa can only compare two labelers, not three or more.
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
 - 
 
 ******************************For next time******************************
-- Clean the datasets (as they are going to be used for searching using OpenAlex API) 
+- Inter-annotator agreement investigation is done. 
+- Clean the datasets (as they are going to be used for searching using OpenAlex API)
+- 
 
 
 
