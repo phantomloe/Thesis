@@ -1,12 +1,18 @@
 pandas
 numpy
+
+# For visualizations 
 seaborn
+matplotlib
 
 # OpenAlex's API 
 openalexapi  
 
 # Download and get text from PDFs 
 pypdf
+
+# Get text from docx 
+docx2txt
 
 # URL-extraction
 urlextract
@@ -16,10 +22,8 @@ uritools
 platformdirs
 dnspython
 
-# Text classification using gensim and additional libraries for preprocessing 
-gensim
-language-check
-pycontractions
+# Text classification using Sci-BERT and additional libraries for preprocessing 
+nltk
 
 # SciBert 
 --upgrade datasets transformers seqeval evaluate

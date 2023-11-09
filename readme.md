@@ -122,19 +122,29 @@ pip3 install -r requirements.txt
 This project is done under the supervision of Veronika Cheplygina (IT University of Copenhagen). 
 
 I used the following: 
+
 - Akkoç, A. (2023). PublicDatasets [Jupyter Notebook]. https://github.com/madprogramer/PublicDatasets (Original work published 2022)
+- Artstein, R., & Poesio, M. (2008). Inter-Coder Agreement for Computational Linguistics. Computational Linguistics, 34(4), 555–596. https://doi.org/10.1162/coli.07-034-R2
+- Artstein, R. (2017). Inter-annotator Agreement. In N. Ide & J. Pustejovsky (Eds.), Handbook of Linguistic Annotation (pp. 297–313). Springer Netherlands. https://doi.org/10.1007/978-94-024-0881-2_11
+- Bird, S., Loper, E., & Klein, E. (2009). Natural Language Processing with Python. O’Reilly Media, INC.
 - Elsapy. (2023). [Python]. Elsevier Developers. https://github.com/ElsevierDev/elsapy (Original work published 2016)
 - Elsevier B.V. (2023a). Article (Full Text) Retrieval API. Elsevier Developer Portal. https://dev.elsevier.com/documentation/ArticleRetrievalAPI.wadl#d1e52
 - Elsevier B.V. (2023b). Article Metadata API. Elsevier Developer Portal. https://dev.elsevier.com/documentation/ArticleMetadataAPI.wadl
 - Elsevier B.V. (2023c). ScienceDirect Article Metadata Guide. Elsevier Developer Portal. https://dev.elsevier.com/sd_article_meta_tips.html
 - Elsevier B.V. (2023d). ScienceDirect Search API Migration. Elsevier Developer Portal. https://dev.elsevier.com/tecdoc_sdsearch_migration.html
+- Géron, A. (2019). Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd ed.). O’Reilly Media, Inc.
+- Hunter, J. D. (2007). Matplotlib: A 2D Graphics Environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55
+- Krippendorff, K. (2004). Reliability in Content Analysis: Some Common Misconceptions and Recommendations. Human Communication Research, 30(3), 411–433. https://doi.org/10.1093/hcr/30.3.411
 - Lipovský, J. (2022). urlextract: Collects and extracts URLs from given text. (1.8.0) [Python]. https://github.com/lipoja/URLExtract
 - NeuroImage | Journal | ScienceDirect.com by Elsevier. (n.d.). Retrieved September 17, 2023, from https://www.sciencedirect.com/journal/neuroimage
+- NLTK. (2023). Nltk.metrics.agreement module (3.8.1) [Python]. https://www.nltk.org/api/nltk.metrics.agreement.html
 - OpenAlexAPI. (n.d.-a). Filter works. OpenAlex API Documentation. Retrieved September 14, 2023, from https://docs.openalex.org/api-entities/works/filter-works
 - OpenAlexAPI. (n.d.-b). Search institutions. OpenAlex API Documentation. Retrieved September 14, 2023, from https://docs.openalex.org/api-entities/sources/source-object
 - OpenAlexAPI. (n.d.-c). Sources. OpenAlex API Documentation. Retrieved September 17, 2023, from https://docs.openalex.org/api-entities/sources
 - OpenAlexAPI. (n.d.-d). Work object. OpenAlex API Documentation. Retrieved September 17, 2023, from https://docs.openalex.org/api-entities/works/work-object#is_paratext
 - Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. ArXiv. https://arxiv.org/abs/2205.01833
+- Rampin, R., & Rampin, V. (2021). Taguette: Open-source qualitative data analysis. Journal of Open Source Software, 6(68), 3522. https://doi.org/10.21105/joss.03522
 - Sourget, T. (2023). TheoSourget/DDSA_Sourget: Repository used during my travel at the ITU of Copenhagen in March 2023 [Computer software]. https://github.com/TheoSourget/DDSA_Sourget
 - Szucs, D., & Ioannidis, J. PA. (2020). Sample size evolution in neuroimaging research: An evaluation of highly-cited studies (1990–2012) and of latest practices (2017–2018) in high-impact journals. NeuroImage, 221, 117164. https://doi.org/10.1016/j.neuroimage.2020.117164
+- Waskom, M. L. (2021). seaborn: Statistical data visualization. Journal of Open Source Software, 6(60), 3021. https://doi.org/10.21105/joss.03021
 - Whitaker Lab Project Management. (2023). [Jupyter Notebook]. Whitaker Lab. https://github.com/WhitakerLab/WhitakerLabProjectManagement (Original work published 2017)

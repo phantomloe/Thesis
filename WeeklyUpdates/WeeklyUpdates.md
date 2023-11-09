@@ -1,4 +1,5 @@
 # Weekly logs 
+- [Week 45](#week45)
 - [Week 44](#week44)
 - [Week 43](#week43)
 - [Week 42](#week42)
@@ -9,6 +10,35 @@
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
+
+
+<a name='week45'></a>
+# Week 45
+**What helped you this week?**
+- N/A
+
+**What did you achieve?**
+- I investigated the inter-annotator agreement (in Code/QA/QA_manually_labeled_data.ipynb)
+    - I used NLTK to calculate Fleiss' Kappa and Krippendorf's Alpha
+    - I investigated the labels that were not similar among the annotators
+    - I compiled a labeled_data set, which consists of sentences with labels 2 or more annotators agreed on that will be used to fine-tune SciBert. 
+- I began the process of fine-tuning Sci-BERT using the following: https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Fine_tuning_BERT_(and_friends)_for_multi_label_text_classification.ipynb#scrollTo=kLB3I4FKZ5Lr
+- I started writing a bit on the report. 
+
+**What did you struggle with?**
+- I got two wisdom teeth removed early on Tuesday, which made my workdays a bit difficult to get through. 
+
+**What would you like to work on next week?**
+- Finalizing the list of datasets based on the sentences that are labeled with 'dataset'. 
+
+**Where do you need help from Veronika?**
+- The article cc'ed to me by Cao et al. seemed really relevant, so I will read it. 
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- Read Cao, H., Dodge, J., Lo, K., McFarland, D. A., & Wang, L. L. (2023). The Rise of Open Science: Tracking the Evolution and Perceived Value of Data and Methods Link-Sharing Practices. https://arxiv.org/ftp/arxiv/papers/2310/2310.03193.pdf
 
 
 <a name='week44'></a>
@@ -37,12 +67,11 @@
     - Cohen’s kappa can only compare two labelers, not three or more.
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
-- 
+- Work with the inter-annotator agreement investigation once the data is in. 
 
 ******************************For next time******************************
 - Inter-annotator agreement investigation is done. 
 - Clean the datasets (as they are going to be used for searching using OpenAlex API)
-- 
 
 
 
