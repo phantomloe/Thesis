@@ -1,4 +1,5 @@
 # Weekly logs 
+- [Week 46](#week46)
 - [Week 45](#week45)
 - [Week 44](#week44)
 - [Week 43](#week43)
@@ -10,6 +11,45 @@
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
+
+
+<a name='week46'></a>
+# Week 46 
+**What helped you this week?**
+- The paper by Cao et al. proved to be very useful - they fine-tuned SciBERT using a dataset curated by Zhao et al. (2019) containing URLs and their contexts (i.e., sentences) that would classify sentences as either 'Material', 'Method' or 'Supplement'. 
+    - The code accompanying their paper was also very useful; I followed their code to a large extent when fine-tuning SciBERT on Zhao et al.'s (2019) labeled data (caohanch n.d.). 
+
+**What did you achieve?**
+- I spent half of the week fine-tuning SciBERT on two sets of data 
+    - The manually labeled data
+    - The data curated and labeled by Zhao et al. (2019)
+    - Overall, using the data by Zhao et al. (2019) resulted in a better performance on the test set compared to the model trained on my small labeled dataset. The size definitely affects the performance, and I remember reading somewhere that having more labels can make classification difficult, because you need more examples. 
+- I spent the other half of the week writing the report 
+
+**What did you struggle with?**
+- Fine-tuning SciBERT for multi-label text classification was quite tricky
+- Figuring out how to get the predicted classes for my dataset proved to be more difficult for me to wrap my head around than anticipated because both notebooks I read for reference inferred on a single sentence.
+    - https://huggingface.co/docs/transformers/tasks/sequence_classification#inference
+    - https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Fine_tuning_BERT_(and_friends)_for_multi_label_text_classification.ipynb#scrollTo=mEkAQleMMT0k
+
+**What would you like to work on next week?**
+- I want to work on the code to investigate the reuse of the datasets I've extracted from the NeuroImage articles.
+- Continue writing. 
+
+**Where do you need help from Veronika?**
+- N/A
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- 
+
+
+**References**
+- Cao, H., Dodge, J., Lo, K., McFarland, D. A., & Wang, L. L. (2023). The Rise of Open Science: Tracking the Evolution and Perceived Value of Data and Methods Link-Sharing Practices. https://arxiv.org/ftp/arxiv/papers/2310/2310.03193.pdf
+- caohanch. (n.d.). Paper_data_method_sharing/link_classification.ipynb at main · caohanch/paper_data_method_sharing [Jupyter Notebook]. Retrieved November 15, 2023, from https://github.com/caohanch/paper_data_method_sharing/blob/main/link_classification.ipynb
+- Zhao, H., Luo, Z., Feng, C., Zheng, A., & Liu, X. (2019). A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 5205–5214. https://doi.org/10.18653/v1/D19-1524
 
 
 <a name='week45'></a>
@@ -35,7 +75,7 @@
 - The article cc'ed to me by Cao et al. seemed really relevant, so I will read it. 
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
-- 
+- Continue working 
 
 ******************************For next time******************************
 - Read Cao, H., Dodge, J., Lo, K., McFarland, D. A., & Wang, L. L. (2023). The Rise of Open Science: Tracking the Evolution and Perceived Value of Data and Methods Link-Sharing Practices. https://arxiv.org/ftp/arxiv/papers/2310/2310.03193.pdf
