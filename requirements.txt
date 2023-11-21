@@ -27,3 +27,6 @@ nltk
 
 # SciBert 
 --upgrade datasets transformers seqeval evaluate
+
+# Validate Material/Dataset URLs 
+requests

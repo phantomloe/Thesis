@@ -12,6 +12,36 @@
 - [Week 36](#week36)
 - [Week 35](#week35)
 
+<a name='week47'></a>
+# Week 47 
+**What helped you this week?**
+- 
+
+**What did you achieve?**
+- I did a more proper and fair comparison of the fine-tuned SciBERT models (classifier_SciBERT.ipynb )
+    - The models performed fairly similarly, with the model fine-tuned using Zhao et al.'s (2019) data performing better (it had a higher recall)
+    - The model trained on my data achieved perfect precision and recall scores, which leads me to think it has overfitted.
+- I checked the validity of the URLs
+    - For the URLs that did not pass the automatic check, I manually checked them (121 total)
+    - For the URLs that work when manually copying and pasting them into a browser
+    - For the URLs that contained a word or character that looks to have been added during the url-extraction, I removed the character and added the link that works to the list of datasets 
+
+**What did you struggle with?**
+- 
+
+**What would you like to work on next week?**
+- 
+
+**Where do you need help from Veronika?**
+- 
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- 
+
+******************************For next time******************************
+- 
+
+
 
 <a name='week46'></a>
 # Week 46 
@@ -40,11 +70,14 @@
 - N/A
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
-- 
+- Aggregate my labels to match the labels from Zhao et al. (2019) for a fair comparison of the model performance upon fine-tuning
+    - Then I can see how much it influences to have more data
+- Continue cleaning and checking the URLs to establish the dataset of datasets that I can find on OpenAlex. 
 
 ******************************For next time******************************
-- 
-
+- Use OpenAlex to see how many other articles have used the datasets.
+    - Read https://github.com/TheoSourget/Public_Medical_Datasets_References/blob/main/Code/usage_detection/fulltext_detection.py (Theó's work) 
+    - Read https://github.com/TheoSourget/pdf_utilities (Theó's work) 
 
 **References**
 - Cao, H., Dodge, J., Lo, K., McFarland, D. A., & Wang, L. L. (2023). The Rise of Open Science: Tracking the Evolution and Perceived Value of Data and Methods Link-Sharing Practices. https://arxiv.org/ftp/arxiv/papers/2310/2310.03193.pdf
