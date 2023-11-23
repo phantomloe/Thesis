@@ -18,22 +18,38 @@
 - 
 
 **What did you achieve?**
-- I did a more proper and fair comparison of the fine-tuned SciBERT models (classifier_SciBERT.ipynb )
+- I did a more proper and fair comparison of the fine-tuned SciBERT models (classifier_SciBERT.ipynb)
     - The models performed fairly similarly, with the model fine-tuned using Zhao et al.'s (2019) data performing better (it had a higher recall)
     - The model trained on my data achieved perfect precision and recall scores, which leads me to think it has overfitted.
-- I checked the validity of the URLs
+- I checked the validity of the URLs (classifier_SciBERT.ipynb)
     - For the URLs that did not pass the automatic check, I manually checked them (121 total)
-    - For the URLs that work when manually copying and pasting them into a browser
-    - For the URLs that contained a word or character that looks to have been added during the url-extraction, I removed the character and added the link that works to the list of datasets 
+        - I added the URLs that work when manually copying and pasting them into a browser to the list of valid URLs
+        - Some URLs that contained a word or character that looked to have been added during the url_extraction, I removed that which had been added to see if the link worked - if it did, I added it to the list (URLs_validated_comments.csv)
+- I generated graphs for the groundtruth, URL, and both QA investigations which I forgot to do. 
+- I began looking into the reuse (reuse.ipynb)
+    - Looking at the NeuroImage 2022 articles, there were some articles that linked to the same datasets
+    - The most common URL was a false material URL as it was a link to a piece of software - in the fifteen most common URLs, there were two false hits
+    - Among the fifteen most common URLs, some point to the same datasets - and some are not so easily decipherable
+        - The most common material URL is 'humanconnectome.org'; a website that hosts multiple HCP datasets (as there are multiple human connectome projects) 
+
 
 **What did you struggle with?**
-- 
+- Concerns relating to investigating reuse of datasets (reuse.ipynb)
+    - Based on the validated material URLs, I can see that:
+        - Some of the websites contain the same datasets (e.g., 'humanconnectome.org' and 'db.humanconnectome.org' both host the Healthy Adult HCP datasets)
+        - Some of the URLs do not specify which dataset from the website they worked with (e.g., 'humanconnectome.org')
+    - There are 305 unique material URLs that work - some of the URLs link to data repositories and not single datasets, and some are false hits (i.e., the classifier has mistakenly identified some software and other tool URLs as material) 
+        - Do I create an overview of the datasets contained within those URLs? Or is it fine to analyse the URLs, e.g., top fifteen and see how many link to the same datasets, and how some researchers specify which dataset from a repository they use and others don't? 
+    - I have started working on the code where I search the articles on OpenAlex that has fulltext available for the validated material URLs. 
+
 
 **What would you like to work on next week?**
-- 
+- Finish the reuse investigation and start working solely on the report. 
+
 
 **Where do you need help from Veronika?**
-- 
+- Coming up with a solution regarding the things I've been struggling with (see above) 
+
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
 - 
