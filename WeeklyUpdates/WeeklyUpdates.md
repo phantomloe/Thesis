@@ -1,4 +1,6 @@
 # Weekly logs 
+- [Week 48](#week48)
+- [Week 47](#week47)
 - [Week 46](#week46)
 - [Week 45](#week45)
 - [Week 44](#week44)
@@ -12,10 +14,38 @@
 - [Week 36](#week36)
 - [Week 35](#week35)
 
+<a name='week48'></a>
+# Week 48
+**What helped you this week?**
+- N/A
+
+**What did you achieve?**
+- I generated graphs for the results/findings portion of the report.
+- I wrote the code for mentions of URLs in the articles on OpenAlex
+    - I started with and completed the investigation of mentions of HCPs URLs.
+    - I attempted to run the code with all of the material URLs found in the NeuroImage articles, but after running the code for two days, I decided to stop it.
+- Wrote on the report. 
+
+**What did you struggle with?**
+- Writing, as it takes time.
+
+**What would you like to work on next week?**
+- Finish and send a draft for introduction, related work, methodology, and results on the 10th. 
+
+**Where do you need help from Veronika?**
+- N/A
+
+**What are the agreements after this meeting?** (to fill in after the meeting)
+- N/A
+
+******************************For next time******************************
+- Finish and send a draft for introduction, related work, methodology, and results on the 10th. 
+
+
 <a name='week47'></a>
 # Week 47 
 **What helped you this week?**
-- 
+- N/A
 
 **What did you achieve?**
 - I did a more proper and fair comparison of the fine-tuned SciBERT models (classifier_SciBERT.ipynb)
@@ -52,11 +82,11 @@
 
 
 **What are the agreements after this meeting?** (to fill in after the meeting)
-- 
+- Make a more qualitative investigation of the articles that use HCP (there are different URLs, all of them among the most reused)
+    - Investigate the sentences; do they specify which HCP they use? Whom among the subjects they analyse? 
 
 ******************************For next time******************************
-- 
-
+- Continue analysis and complete code. 
 
 
 <a name='week46'></a>

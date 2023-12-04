@@ -1,0 +1,4775 @@
+[
+  {
+    "id": "https://openalex.org/W4220935930",
+    "doi": "https://doi.org/10.1016/j.neuroimage.2022.119056",
+    "title": "Good scientific practice in EEG and MEG research: Progress and perspectives",
+    "display_name": "Good scientific practice in EEG and MEG research: Progress and perspectives",
+    "relevance_score": 111.277534,
+    "publication_year": 2022,
+    "publication_date": "2022-08-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4220935930",
+      "doi": "https://doi.org/10.1016/j.neuroimage.2022.119056",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/35283287"
+    },
+    "language": "en",
+    "primary_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.neuroimage.2022.119056",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S103225281",
+        "display_name": "NeuroImage",
+        "issn_l": "1053-8119",
+        "issn": [
+          "1053-8119",
+          "1095-9572"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "type": "article",
+    "type_crossref": "journal-article",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1016/j.neuroimage.2022.119056",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5074329470",
+          "display_name": "Guiomar Niso",
+          "orcid": "https://orcid.org/0000-0001-5872-8924"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I88060688",
+            "display_name": "Universidad Polit\u00e9cnica de Madrid",
+            "ror": "https://ror.org/03n6nwv02",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I88060688"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210105141",
+            "display_name": "Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine",
+            "ror": "https://ror.org/01gm5f004",
+            "country_code": "ES",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I4210105141"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210119109",
+            "display_name": "Indiana University Bloomington",
+            "ror": "https://ror.org/02k40bc56",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210119109",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "ES",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Guiomar Niso",
+        "raw_affiliation_string": "Psychological & Brain Sciences, Indiana University, Bloomington, IN, USA; Universidad Politecnica de Madrid and CIBER-BBN, Madrid, Spain",
+        "raw_affiliation_strings": [
+          "Psychological & Brain Sciences, Indiana University, Bloomington, IN, USA",
+          "Universidad Politecnica de Madrid and CIBER-BBN, Madrid, Spain"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075416414",
+          "display_name": "Laurens R. Krol",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51783024",
+            "display_name": "Brandenburg University of Technology Cottbus-Senftenberg",
+            "ror": "https://ror.org/02wxx3e24",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51783024"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Laurens R Krol",
+        "raw_affiliation_string": "Brandenburg University of Technology Cottbus-Senftenberg, Germany.",
+        "raw_affiliation_strings": [
+          "Brandenburg University of Technology Cottbus-Senftenberg, Germany."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5030563709",
+          "display_name": "Etienne Combrisson",
+          "orcid": "https://orcid.org/0000-0002-7362-3247"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210138220",
+            "display_name": "Institut de Neurosciences de la Timone",
+            "ror": "https://ror.org/043hw6336",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210096427",
+              "https://openalex.org/I4210138220"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille University",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Etienne Combrisson",
+        "raw_affiliation_string": "Aix-Marseille University, Institut de Neurosciences de la Timone.",
+        "raw_affiliation_strings": [
+          "Aix-Marseille University, Institut de Neurosciences de la Timone."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5029609451",
+          "display_name": "Anne-Sophie Dubarry",
+          "orcid": "https://orcid.org/0000-0002-6096-4835"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille University",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "A-Sophie Dubarry",
+        "raw_affiliation_string": "CNRS, LPL, Aix-Marseille University, Aix-en-Provence, France",
+        "raw_affiliation_strings": [
+          "CNRS, LPL, Aix-Marseille University, Aix-en-Provence, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5058918302",
+          "display_name": "Madison Elliott",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141945490",
+            "display_name": "University of British Columbia",
+            "ror": "https://ror.org/03rmrcq20",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Madison A Elliott",
+        "raw_affiliation_string": "The University of British Columbia, Canada",
+        "raw_affiliation_strings": [
+          "The University of British Columbia, Canada"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5027127398",
+          "display_name": "Fran\u00e7ois Cl\u00e9ment",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille University",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Cl\u00e9ment Fran\u00e7ois",
+        "raw_affiliation_string": "CNRS, LPL, Aix-Marseille University, Aix-en-Provence, France",
+        "raw_affiliation_strings": [
+          "CNRS, LPL, Aix-Marseille University, Aix-en-Provence, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018180603",
+          "display_name": "Yseult H\u00e9jja-Brichard",
+          "orcid": "https://orcid.org/0000-0003-3939-3852"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19894307",
+            "display_name": "University of Montpellier",
+            "ror": "https://ror.org/051escj72",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I19894307",
+              "https://openalex.org/I2802056588"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802056588",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210089824",
+            "display_name": "Centre d'\u00c9cologie Fonctionnelle et \u00c9volutive",
+            "ror": "https://ror.org/008rywf59",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I159885104",
+              "https://openalex.org/I19894307",
+              "https://openalex.org/I208215962",
+              "https://openalex.org/I24906876",
+              "https://openalex.org/I4210088668",
+              "https://openalex.org/I4210089824",
+              "https://openalex.org/I4210107625",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I159885104",
+            "display_name": "\u00c9cole Pratique des Hautes \u00c9tudes",
+            "ror": "https://ror.org/046b3cj80",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I159885104",
+              "https://openalex.org/I2746051580"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yseult H\u00e9jja-Brichard",
+        "raw_affiliation_string": "Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, EPHE, IRD, Universit\u00e9 Montpellier, Montpellier, France",
+        "raw_affiliation_strings": [
+          "Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, EPHE, IRD, Universit\u00e9 Montpellier, Montpellier, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5011743261",
+          "display_name": "Sophie K. Herbst",
+          "orcid": "https://orcid.org/0000-0001-6161-3167"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210128565",
+            "display_name": "CEA Saclay",
+            "ror": "https://ror.org/03n15ch10",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210127723",
+              "https://openalex.org/I4210128565"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I154526488",
+            "display_name": "Inserm",
+            "ror": "https://ror.org/02vjkv261",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I154526488"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2738703131",
+            "display_name": "Atomic Energy and Alternative Energies Commission",
+            "ror": "https://ror.org/00jjx8s55",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2738703131"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210143253",
+            "display_name": "Cognitive Neuroimaging Lab",
+            "ror": "https://ror.org/056wdpc91",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I154526488",
+              "https://openalex.org/I2738703131",
+              "https://openalex.org/I4210143253"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I277688954",
+            "display_name": "University of Paris-Saclay",
+            "ror": "https://ror.org/03xjwb503",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I277688954"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210145102",
+            "display_name": "Institut Polytechnique de Paris",
+            "ror": "https://ror.org/042tfbd02",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210145102"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sophie K Herbst",
+        "raw_affiliation_string": "Cognitive Neuroimaging Unit, INSERM, CEA, CNRS, NeuroSpin center, Universit\u00e9 Paris-Saclay, Gif/Yvette, France",
+        "raw_affiliation_strings": [
+          "Cognitive Neuroimaging Unit, INSERM, CEA, CNRS, NeuroSpin center, Universit\u00e9 Paris-Saclay, Gif/Yvette, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5051870567",
+          "display_name": "Karim Jerbi",
+          "orcid": "https://orcid.org/0000-0002-3790-9651"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210164802",
+            "display_name": "Mila - Quebec Artificial Intelligence Institute",
+            "ror": "https://ror.org/05c22rx21",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210164802"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I70931966",
+            "display_name": "Universit\u00e9 de Montr\u00e9al",
+            "ror": "https://ror.org/0161xgx34",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I70931966"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Karim Jerbi",
+        "raw_affiliation_string": "Cognitive and Computational Neuroscience Lab, Department of Psychology, University of Montreal, Montreal, QC, Canada; Mila - Quebec Artificial Intelligence Institute.",
+        "raw_affiliation_strings": [
+          "Cognitive and Computational Neuroscience Lab, Department of Psychology, University of Montreal, Montreal, QC, Canada; Mila - Quebec Artificial Intelligence Institute."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5070003913",
+          "display_name": "Vanja Kovi\u0107",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4068193",
+            "display_name": "University of Belgrade",
+            "ror": "https://ror.org/02qsmb048",
+            "country_code": "RS",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4068193"
+            ]
+          }
+        ],
+        "countries": [
+          "RS"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Vanja Kovic",
+        "raw_affiliation_string": "University of Belgrade Faculty of Philosophy Laboratory for neurocognition and applied cognition.",
+        "raw_affiliation_strings": [
+          "University of Belgrade Faculty of Philosophy Laboratory for neurocognition and applied cognition."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5002251810",
+          "display_name": "Katia Lehongre",
+          "orcid": "https://orcid.org/0000-0003-3531-9911"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210152724",
+            "display_name": "Institut du Cerveau",
+            "ror": "https://ror.org/050gn5214",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I154526488",
+              "https://openalex.org/I39804081",
+              "https://openalex.org/I4210096427",
+              "https://openalex.org/I4210152724"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I154526488",
+            "display_name": "Inserm",
+            "ror": "https://ror.org/02vjkv261",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I154526488"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210121705",
+            "display_name": "Piti\u00e9-Salp\u00eatri\u00e8re Hospital",
+            "ror": "https://ror.org/02mh9a093",
+            "country_code": "FR",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210097159",
+              "https://openalex.org/I4210121705"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I39804081",
+            "display_name": "Sorbonne University",
+            "ror": "https://ror.org/02en5vm52",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39804081"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Katia Lehongre",
+        "raw_affiliation_string": "Institut du Cerveau - Paris Brain Institute - ICM, Inserm U 1127, CNRS UMR 7225, APHP, H\u00f4pital de la Piti\u00e9 Salp\u00eatri\u00e8re, Sorbonne Universit\u00e9, Centre MEG-EEG, Centre de NeuroImagerie Recherche (CENIR), Paris, France.",
+        "raw_affiliation_strings": [
+          "Institut du Cerveau - Paris Brain Institute - ICM, Inserm U 1127, CNRS UMR 7225, APHP, H\u00f4pital de la Piti\u00e9 Salp\u00eatri\u00e8re, Sorbonne Universit\u00e9, Centre MEG-EEG, Centre de NeuroImagerie Recherche (CENIR), Paris, France."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5008186009",
+          "display_name": "Steven J. Luck",
+          "orcid": "https://orcid.org/0000-0002-3725-1474"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I84218800",
+            "display_name": "University of California, Davis",
+            "ror": "https://ror.org/05rrcem69",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2803209242",
+              "https://openalex.org/I84218800"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Steven J Luck",
+        "raw_affiliation_string": "Center for Mind & Brain, University of California, Davis, CA, USA.",
+        "raw_affiliation_strings": [
+          "Center for Mind & Brain, University of California, Davis, CA, USA."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5030548603",
+          "display_name": "Manuel Mercier",
+          "orcid": "https://orcid.org/0000-0001-6358-4734"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154526488",
+            "display_name": "Inserm",
+            "ror": "https://ror.org/02vjkv261",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I154526488"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210110495",
+            "display_name": "Institut de Neurosciences des Syst\u00e8mes",
+            "ror": "https://ror.org/019kqby73",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I154526488",
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087487",
+              "https://openalex.org/I4210110495"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Manuel Mercier",
+        "raw_affiliation_string": "Aix Marseille Univ, Inserm, INS, Inst Neurosci Syst, Marseille, France",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, Inserm, INS, Inst Neurosci Syst, Marseille, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5041475859",
+          "display_name": "John C. Mosher",
+          "orcid": "https://orcid.org/0000-0002-3221-229X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210159031",
+            "display_name": "The University of Texas Health Science Center",
+            "ror": "https://ror.org/05cwbxa29",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210159031"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "John C Mosher",
+        "raw_affiliation_string": "McGovern Medical School, University of Texas Health Science Center at Houston, Houston, TX, USA.",
+        "raw_affiliation_strings": [
+          "McGovern Medical School, University of Texas Health Science Center at Houston, Houston, TX, USA."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5013367672",
+          "display_name": "Yuri G. Pavlov",
+          "orcid": "https://orcid.org/0000-0002-3896-5145"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I8087733",
+            "display_name": "University of T\u00fcbingen",
+            "ror": "https://ror.org/03a1kwz48",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I8087733"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I130823665",
+            "display_name": "Ural Federal University",
+            "ror": "https://ror.org/00hs7dr46",
+            "country_code": "RU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130823665"
+            ]
+          }
+        ],
+        "countries": [
+          "DE",
+          "RU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yuri G Pavlov",
+        "raw_affiliation_string": "University of Tuebingen, Germany; Ural Federal University, Yekaterinburg, Russia",
+        "raw_affiliation_strings": [
+          "University of Tuebingen, Germany",
+          "Ural Federal University, Yekaterinburg, Russia"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5040241703",
+          "display_name": "Aina Puce",
+          "orcid": "https://orcid.org/0000-0002-0716-4185"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210119109",
+            "display_name": "Indiana University Bloomington",
+            "ror": "https://ror.org/02k40bc56",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210119109",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aina Puce",
+        "raw_affiliation_string": "Psychological & Brain Sciences, Indiana University, Bloomington, IN, USA",
+        "raw_affiliation_strings": [
+          "Psychological & Brain Sciences, Indiana University, Bloomington, IN, USA"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087217781",
+          "display_name": "Antonio Schettino",
+          "orcid": "https://orcid.org/0000-0001-8065-6082"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210099375",
+            "display_name": "Institute for Globally Distributed Open Research and Education",
+            "ror": "https://ror.org/01643wd06",
+            "country_code": "SE",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210099375"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I913958620",
+            "display_name": "Erasmus University Rotterdam",
+            "ror": "https://ror.org/057w15z03",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I913958620"
+            ]
+          }
+        ],
+        "countries": [
+          "NL",
+          "SE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Antonio Schettino",
+        "raw_affiliation_string": "Erasmus University Rotterdam, Rotterdam, The Netherlands; Institute for Globally Distributed Open Research and Education (IGDORE), Sweden.",
+        "raw_affiliation_strings": [
+          "Erasmus University Rotterdam, Rotterdam, The Netherlands; Institute for Globally Distributed Open Research and Education (IGDORE), Sweden."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075838567",
+          "display_name": "Daniele Sch\u00f6n",
+          "orcid": "https://orcid.org/0000-0003-4472-4150"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154526488",
+            "display_name": "Inserm",
+            "ror": "https://ror.org/02vjkv261",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I154526488"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210110495",
+            "display_name": "Institut de Neurosciences des Syst\u00e8mes",
+            "ror": "https://ror.org/019kqby73",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I154526488",
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087487",
+              "https://openalex.org/I4210110495"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Daniele Sch\u00f6n",
+        "raw_affiliation_string": "Aix Marseille Univ, Inserm, INS, Inst Neurosci Syst, Marseille, France",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, Inserm, INS, Inst Neurosci Syst, Marseille, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5080376553",
+          "display_name": "Walter Sinnott\u2010Armstrong",
+          "orcid": "https://orcid.org/0000-0003-2579-9966"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I170897317",
+            "display_name": "Duke University",
+            "ror": "https://ror.org/00py81415",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I170897317"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Walter Sinnott-Armstrong",
+        "raw_affiliation_string": "Duke University.",
+        "raw_affiliation_strings": [
+          "Duke University."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5091097043",
+          "display_name": "Bertille Somon",
+          "orcid": "https://orcid.org/0000-0003-0624-9344"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I193033237",
+            "display_name": "National Higher French Institute of Aeronautics and Space",
+            "ror": "https://ror.org/04gyj6s21",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I17866349",
+              "https://openalex.org/I193033237"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I17866349",
+            "display_name": "Universit\u00e9 de Toulouse",
+            "ror": "https://ror.org/004raaa70",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I17866349"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bertille Somon",
+        "raw_affiliation_string": "ISAE-SUPAERO, Universit\u00e9 de Toulouse, France.",
+        "raw_affiliation_strings": [
+          "ISAE-SUPAERO, Universit\u00e9 de Toulouse, France."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5025712114",
+          "display_name": "\u0410n\u0111ela \u0160o\u0161ki\u0107",
+          "orcid": "https://orcid.org/0000-0003-0216-989X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "An\u0111ela \u0160o\u0161ki\u0107",
+        "raw_affiliation_string": "",
+        "raw_affiliation_strings": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5072241540",
+          "display_name": "Suzy J Styles",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Suzy J Styles",
+        "raw_affiliation_string": "",
+        "raw_affiliation_strings": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5014006677",
+          "display_name": "Roni Tibon",
+          "orcid": "https://orcid.org/0000-0003-1252-6715"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Roni Tibon",
+        "raw_affiliation_string": "",
+        "raw_affiliation_strings": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5054185529",
+          "display_name": "Martina G. Vilas",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Martina G Vilas",
+        "raw_affiliation_string": "",
+        "raw_affiliation_strings": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5045390687",
+          "display_name": "Marijn van Vliet",
+          "orcid": "https://orcid.org/0000-0002-6537-6899"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Marijn van Vliet",
+        "raw_affiliation_string": "",
+        "raw_affiliation_strings": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5064551137",
+          "display_name": "Maximilien Chaumon",
+          "orcid": "https://orcid.org/0000-0001-9664-8861"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Maximilien Chaumon",
+        "raw_affiliation_string": "",
+        "raw_affiliation_strings": []
+      }
+    ],
+    "countries_distinct_count": 9,
+    "institutions_distinct_count": 34,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": {
+      "value": 3450,
+      "currency": "USD",
+      "value_usd": 3450,
+      "provenance": "doaj"
+    },
+    "apc_paid": {
+      "value": 3450,
+      "currency": "USD",
+      "value_usd": 3450,
+      "provenance": "doaj"
+    },
+    "has_fulltext": true,
+    "fulltext_origin": "pdf",
+    "cited_by_count": 12,
+    "cited_by_percentile_year": {
+      "min": 97.7,
+      "max": 98.0
+    },
+    "biblio": {
+      "volume": "257",
+      "issue": null,
+      "first_page": "119056",
+      "last_page": "119056"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "keywords": [
+      {
+        "keyword": "meg research",
+        "score": 0.697
+      },
+      {
+        "keyword": "eeg",
+        "score": 0.5155
+      },
+      {
+        "keyword": "good scientific practice",
+        "score": 0.328
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776050585",
+        "wikidata": "https://www.wikidata.org/wiki/Q7439360",
+        "display_name": "Scrutiny",
+        "level": 2,
+        "score": 0.7131231
+      },
+      {
+        "id": "https://openalex.org/C100521375",
+        "wikidata": "https://www.wikidata.org/wiki/Q2015382",
+        "display_name": "Competence (human resources)",
+        "level": 2,
+        "score": 0.63521224
+      },
+      {
+        "id": "https://openalex.org/C55587333",
+        "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+        "display_name": "Engineering ethics",
+        "level": 1,
+        "score": 0.45262572
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.43816718
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.42704013
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.38090223
+      },
+      {
+        "id": "https://openalex.org/C2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "level": 1,
+        "score": 0.36916518
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.3494957
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.34815133
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.26691955
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.15491861
+      },
+      {
+        "id": "https://openalex.org/C78519656",
+        "wikidata": "https://www.wikidata.org/wiki/Q101333",
+        "display_name": "Mechanical engineering",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D004569",
+        "descriptor_name": "Electroencephalography",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 9,
+    "locations": [
+      {
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.neuroimage.2022.119056",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S103225281",
+          "display_name": "NeuroImage",
+          "issn_l": "1053-8119",
+          "issn": [
+            "1053-8119",
+            "1095-9572"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://hal.science/hal-03764703",
+        "pdf_url": "https://hal.science/hal-03764703/document",
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "French National Centre for Scientific Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [
+            "French National Centre for Scientific Research"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://hdl.handle.net/2022/28631",
+        "pdf_url": "https://scholarworks.iu.edu/dspace/bitstream/2022/28631/1/Good%20scientific%20practice%20in%20EEG%20and%20MEG%20research%20-%20Progress%20and%20perspectives.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400988",
+          "display_name": "IUScholarWorks (Indiana University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I592451",
+          "host_organization_name": "Indiana University",
+          "host_organization_lineage": [
+            "https://openalex.org/I592451"
+          ],
+          "host_organization_lineage_names": [
+            "Indiana University"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/10995/118117",
+        "pdf_url": "https://elar.urfu.ru/bitstream/10995/118117/1/2-s2.0-85131458696.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401522",
+          "display_name": "Electronic scientific archive of UrFU (Ural Federal University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I130823665",
+          "host_organization_name": "Ural Federal University",
+          "host_organization_lineage": [
+            "https://openalex.org/I130823665"
+          ],
+          "host_organization_lineage_names": [
+            "Ural Federal University"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://hal.science/hal-03764703/file/1-s2.0-S1053811922001859-main.pdf",
+        "pdf_url": "https://hal.science/hal-03764703/file/1-s2.0-S1053811922001859-main.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "French National Centre for Scientific Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [
+            "French National Centre for Scientific Research"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://nottingham-repository.worktribe.com/file/7644774/1/Good%20Scientific%20Practice%20in%20MEEG%20Research",
+        "pdf_url": "https://nottingham-repository.worktribe.com/file/7644774/1/Good%20Scientific%20Practice%20in%20MEEG%20Research",
+        "source": {
+          "id": "https://openalex.org/S4306402481",
+          "display_name": "Repository@Nottingham (University of Nottingham)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I142263535",
+          "host_organization_name": "University of Nottingham",
+          "host_organization_lineage": [
+            "https://openalex.org/I142263535"
+          ],
+          "host_organization_lineage_names": [
+            "University of Nottingham"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://nottingham-repository.worktribe.com/output/7644774",
+        "pdf_url": "https://nottingham-repository.worktribe.com/preview/8042575/1-s2.0-S1053811922001859-main.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402483",
+          "display_name": "Repository@Nottingham (University of Nottingham)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I142263535",
+          "host_organization_name": "University of Nottingham",
+          "host_organization_lineage": [
+            "https://openalex.org/I142263535"
+          ],
+          "host_organization_lineage_names": [
+            "University of Nottingham"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://aaltodoc.aalto.fi/handle/123456789/115318",
+        "pdf_url": "https://research.aalto.fi/files/84492116/1_s2.0_S1053811922001859_main.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401663",
+          "display_name": "Aaltodoc (Aalto University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I9927081",
+          "host_organization_name": "Aalto University",
+          "host_organization_lineage": [
+            "https://openalex.org/I9927081"
+          ],
+          "host_organization_lineage_names": [
+            "Aalto University"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35283287",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [
+            "National Institutes of Health"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false
+      }
+    ],
+    "best_oa_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.neuroimage.2022.119056",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S103225281",
+        "display_name": "NeuroImage",
+        "issn_l": "1053-8119",
+        "issn": [
+          "1053-8119",
+          "1095-9572"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/17",
+        "display_name": "Partnerships for the goals",
+        "score": 0.5
+      },
+      {
+        "id": "https://metadata.un.org/sdg/9",
+        "display_name": "Industry, innovation and infrastructure",
+        "score": 0.18
+      }
+    ],
+    "grants": [],
+    "referenced_works_count": 201,
+    "referenced_works": [
+      "https://openalex.org/W1514687927",
+      "https://openalex.org/W1563625862",
+      "https://openalex.org/W1605458923",
+      "https://openalex.org/W1767470961",
+      "https://openalex.org/W1824528708",
+      "https://openalex.org/W1835051027",
+      "https://openalex.org/W1835879695",
+      "https://openalex.org/W1907286193",
+      "https://openalex.org/W1971244812",
+      "https://openalex.org/W1973042443",
+      "https://openalex.org/W1973275441",
+      "https://openalex.org/W1976954310",
+      "https://openalex.org/W1989666886",
+      "https://openalex.org/W1991584086",
+      "https://openalex.org/W2000690216",
+      "https://openalex.org/W2002030061",
+      "https://openalex.org/W2002313059",
+      "https://openalex.org/W2006546769",
+      "https://openalex.org/W2008905841",
+      "https://openalex.org/W2011402106",
+      "https://openalex.org/W2014502281",
+      "https://openalex.org/W2014833813",
+      "https://openalex.org/W2015866962",
+      "https://openalex.org/W2026292399",
+      "https://openalex.org/W2028985479",
+      "https://openalex.org/W2031425398",
+      "https://openalex.org/W2031843365",
+      "https://openalex.org/W2035272893",
+      "https://openalex.org/W2037504148",
+      "https://openalex.org/W2041717313",
+      "https://openalex.org/W2045657963",
+      "https://openalex.org/W2046557060",
+      "https://openalex.org/W2054294508",
+      "https://openalex.org/W2057653353",
+      "https://openalex.org/W2065613049",
+      "https://openalex.org/W2072735345",
+      "https://openalex.org/W2081681887",
+      "https://openalex.org/W2082756280",
+      "https://openalex.org/W2089358714",
+      "https://openalex.org/W2102122784",
+      "https://openalex.org/W2105824687",
+      "https://openalex.org/W2106006415",
+      "https://openalex.org/W2112039868",
+      "https://openalex.org/W2113620950",
+      "https://openalex.org/W2114977008",
+      "https://openalex.org/W2115562224",
+      "https://openalex.org/W2115606700",
+      "https://openalex.org/W2116649573",
+      "https://openalex.org/W2118835212",
+      "https://openalex.org/W2119656999",
+      "https://openalex.org/W2123163997",
+      "https://openalex.org/W2124995442",
+      "https://openalex.org/W2128495200",
+      "https://openalex.org/W2130915922",
+      "https://openalex.org/W2131543796",
+      "https://openalex.org/W2131966673",
+      "https://openalex.org/W2132160245",
+      "https://openalex.org/W2135595031",
+      "https://openalex.org/W2135894974",
+      "https://openalex.org/W2141156380",
+      "https://openalex.org/W2144981148",
+      "https://openalex.org/W2145005415",
+      "https://openalex.org/W2151721316",
+      "https://openalex.org/W2152673832",
+      "https://openalex.org/W2153999689",
+      "https://openalex.org/W2154424175",
+      "https://openalex.org/W2158956772",
+      "https://openalex.org/W2159292941",
+      "https://openalex.org/W2159471651",
+      "https://openalex.org/W2160453617",
+      "https://openalex.org/W2161498332",
+      "https://openalex.org/W2162120534",
+      "https://openalex.org/W2169918686",
+      "https://openalex.org/W2191243614",
+      "https://openalex.org/W2203559418",
+      "https://openalex.org/W2300867265",
+      "https://openalex.org/W2302501749",
+      "https://openalex.org/W2335953718",
+      "https://openalex.org/W2337614165",
+      "https://openalex.org/W2345279893",
+      "https://openalex.org/W2416241581",
+      "https://openalex.org/W2463568293",
+      "https://openalex.org/W2485842390",
+      "https://openalex.org/W2526501380",
+      "https://openalex.org/W2532142668",
+      "https://openalex.org/W2562953409",
+      "https://openalex.org/W2566961903",
+      "https://openalex.org/W2571093196",
+      "https://openalex.org/W2573945754",
+      "https://openalex.org/W2602768412",
+      "https://openalex.org/W2604941166",
+      "https://openalex.org/W2615531356",
+      "https://openalex.org/W2738724892",
+      "https://openalex.org/W2744012576",
+      "https://openalex.org/W2768920954",
+      "https://openalex.org/W2773873541",
+      "https://openalex.org/W2776946429",
+      "https://openalex.org/W2779812635",
+      "https://openalex.org/W2787954695",
+      "https://openalex.org/W2790682483",
+      "https://openalex.org/W2793419522",
+      "https://openalex.org/W2794345050",
+      "https://openalex.org/W2796350793",
+      "https://openalex.org/W2797425608",
+      "https://openalex.org/W2801389833",
+      "https://openalex.org/W2801792253",
+      "https://openalex.org/W2808915225",
+      "https://openalex.org/W2809461164",
+      "https://openalex.org/W2886905122",
+      "https://openalex.org/W2890869158",
+      "https://openalex.org/W2896398303",
+      "https://openalex.org/W2904148471",
+      "https://openalex.org/W2911019338",
+      "https://openalex.org/W2911372390",
+      "https://openalex.org/W2912518300",
+      "https://openalex.org/W2916138623",
+      "https://openalex.org/W2917357041",
+      "https://openalex.org/W2925215685",
+      "https://openalex.org/W2940293958",
+      "https://openalex.org/W2940837045",
+      "https://openalex.org/W2943216811",
+      "https://openalex.org/W2945433338",
+      "https://openalex.org/W2950532129",
+      "https://openalex.org/W2951081425",
+      "https://openalex.org/W2951103577",
+      "https://openalex.org/W2952423483",
+      "https://openalex.org/W2952428400",
+      "https://openalex.org/W2953134824",
+      "https://openalex.org/W2954654581",
+      "https://openalex.org/W2956069845",
+      "https://openalex.org/W2962993737",
+      "https://openalex.org/W2963355311",
+      "https://openalex.org/W2964982538",
+      "https://openalex.org/W2968308266",
+      "https://openalex.org/W2969912247",
+      "https://openalex.org/W2975460652",
+      "https://openalex.org/W2980609230",
+      "https://openalex.org/W2986270241",
+      "https://openalex.org/W2987779552",
+      "https://openalex.org/W2991094323",
+      "https://openalex.org/W2994712921",
+      "https://openalex.org/W2995840337",
+      "https://openalex.org/W2996586346",
+      "https://openalex.org/W3007868330",
+      "https://openalex.org/W3013008564",
+      "https://openalex.org/W3015760814",
+      "https://openalex.org/W3015945627",
+      "https://openalex.org/W3020486965",
+      "https://openalex.org/W3036739736",
+      "https://openalex.org/W3042057891",
+      "https://openalex.org/W3042662801",
+      "https://openalex.org/W3048946288",
+      "https://openalex.org/W3083677246",
+      "https://openalex.org/W3087194435",
+      "https://openalex.org/W3093473682",
+      "https://openalex.org/W3093672414",
+      "https://openalex.org/W3094152065",
+      "https://openalex.org/W3096758526",
+      "https://openalex.org/W3102003537",
+      "https://openalex.org/W3103396008",
+      "https://openalex.org/W3110151578",
+      "https://openalex.org/W3118883268",
+      "https://openalex.org/W3124333825",
+      "https://openalex.org/W3124394773",
+      "https://openalex.org/W3128884215",
+      "https://openalex.org/W3130490927",
+      "https://openalex.org/W3132771424",
+      "https://openalex.org/W3135232457",
+      "https://openalex.org/W3136084339",
+      "https://openalex.org/W3136933888",
+      "https://openalex.org/W3138511122",
+      "https://openalex.org/W3139562178",
+      "https://openalex.org/W3141370374",
+      "https://openalex.org/W3148605487",
+      "https://openalex.org/W3150412685",
+      "https://openalex.org/W3151390750",
+      "https://openalex.org/W3153302987",
+      "https://openalex.org/W3161588210",
+      "https://openalex.org/W3170390204",
+      "https://openalex.org/W3174993952",
+      "https://openalex.org/W3176090025",
+      "https://openalex.org/W3184118111",
+      "https://openalex.org/W3195098488",
+      "https://openalex.org/W3207860700",
+      "https://openalex.org/W3211435516",
+      "https://openalex.org/W3213730518",
+      "https://openalex.org/W3213924396",
+      "https://openalex.org/W3214906297",
+      "https://openalex.org/W3217766595",
+      "https://openalex.org/W4200375399",
+      "https://openalex.org/W4200583417",
+      "https://openalex.org/W4205691921",
+      "https://openalex.org/W4210939373",
+      "https://openalex.org/W4220678139",
+      "https://openalex.org/W4223510144",
+      "https://openalex.org/W4234551298",
+      "https://openalex.org/W4241074797",
+      "https://openalex.org/W4280623416",
+      "https://openalex.org/W4285508994",
+      "https://openalex.org/W4292157289",
+      "https://openalex.org/W4376848438"
+    ],
+    "related_works": [
+      "https://openalex.org/W1987888524",
+      "https://openalex.org/W2415594679",
+      "https://openalex.org/W2111385166",
+      "https://openalex.org/W2967105077",
+      "https://openalex.org/W2119108885",
+      "https://openalex.org/W3190981800",
+      "https://openalex.org/W2230884280",
+      "https://openalex.org/W1969053466",
+      "https://openalex.org/W2264921115",
+      "https://openalex.org/W4323041397"
+    ],
+    "ngrams_url": "https://api.openalex.org/works/W4220935930/ngrams",
+    "abstract_inverted_index": {
+      "Good": [
+        0
+      ],
+      "scientific": [
+        1,
+        286
+      ],
+      "practice": [
+        2
+      ],
+      "(GSP)": [
+        3
+      ],
+      "refers": [
+        4
+      ],
+      "to": [
+        5,
+        17,
+        31,
+        67,
+        74,
+        141,
+        154,
+        164,
+        176,
+        186,
+        195,
+        207,
+        230,
+        252,
+        278
+      ],
+      "both": [
+        6,
+        285
+      ],
+      "explicit": [
+        7
+      ],
+      "and": [
+        8,
+        12,
+        30,
+        49,
+        56,
+        65,
+        98,
+        112,
+        115,
+        134,
+        157,
+        167,
+        171,
+        179,
+        200,
+        205,
+        223,
+        244,
+        263,
+        269,
+        281,
+        287
+      ],
+      "implicit": [
+        9
+      ],
+      "rules,": [
+        10
+      ],
+      "recommendations,": [
+        11
+      ],
+      "guidelines": [
+        13,
+        57,
+        97
+      ],
+      "that": [
+        14,
+        20,
+        34,
+        93,
+        227,
+        274
+      ],
+      "help": [
+        15
+      ],
+      "scientists": [
+        16,
+        228
+      ],
+      "produce": [
+        18
+      ],
+      "work": [
+        19,
+        35
+      ],
+      "is": [
+        21,
+        213
+      ],
+      "of": [
+        22,
+        109,
+        130,
+        174,
+        217,
+        220,
+        241,
+        259,
+        266
+      ],
+      "the": [
+        23,
+        37,
+        83,
+        131,
+        138,
+        224,
+        239,
+        250,
+        257,
+        270
+      ],
+      "highest": [
+        24
+      ],
+      "quality": [
+        25
+      ],
+      "at": [
+        26,
+        247
+      ],
+      "any": [
+        27
+      ],
+      "given": [
+        28
+      ],
+      "time,": [
+        29
+      ],
+      "efficiently": [
+        32
+      ],
+      "share": [
+        33
+      ],
+      "with": [
+        36,
+        137,
+        152,
+        193,
+        232
+      ],
+      "community": [
+        38
+      ],
+      "for": [
+        39,
+        58,
+        284,
+        288
+      ],
+      "further": [
+        40
+      ],
+      "scrutiny": [
+        41
+      ],
+      "or": [
+        42
+      ],
+      "utilization.": [
+        43
+      ],
+      "For": [
+        44
+      ],
+      "experimental": [
+        45
+      ],
+      "research": [
+        46,
+        181,
+        222
+      ],
+      "using": [
+        47
+      ],
+      "magneto-": [
+        48
+      ],
+      "electroencephalography": [
+        50
+      ],
+      "(MEEG),": [
+        51
+      ],
+      "GSP": [
+        52,
+        71,
+        90,
+        151,
+        192,
+        212,
+        276
+      ],
+      "includes": [
+        53
+      ],
+      "specific": [
+        54
+      ],
+      "standards": [
+        55
+      ],
+      "technical": [
+        59,
+        99
+      ],
+      "competence,": [
+        60
+      ],
+      "which": [
+        61
+      ],
+      "are": [
+        62
+      ],
+      "periodically": [
+        63
+      ],
+      "updated": [
+        64
+      ],
+      "adapted": [
+        66
+      ],
+      "new": [
+        68,
+        135,
+        203
+      ],
+      "findings.": [
+        69
+      ],
+      "However,": [
+        70
+      ],
+      "also": [
+        72,
+        102
+      ],
+      "needs": [
+        73
+      ],
+      "be": [
+        75
+      ],
+      "regularly": [
+        76
+      ],
+      "revisited": [
+        77
+      ],
+      "in": [
+        78,
+        146,
+        215
+      ],
+      "a": [
+        79,
+        87,
+        106,
+        162,
+        172,
+        183
+      ],
+      "broader": [
+        80
+      ],
+      "light.": [
+        81
+      ],
+      "At": [
+        82
+      ],
+      "LiveMEEG": [
+        84,
+        132
+      ],
+      "2020": [
+        85
+      ],
+      "conference,": [
+        86
+      ],
+      "reflection": [
+        88
+      ],
+      "on": [
+        89,
+        128
+      ],
+      "was": [
+        91
+      ],
+      "fostered": [
+        92
+      ],
+      "included": [
+        94
+      ],
+      "explicitly": [
+        95
+      ],
+      "documented": [
+        96
+      ],
+      "advances,": [
+        100
+      ],
+      "but": [
+        101
+      ],
+      "emphasized": [
+        103
+      ],
+      "intangible": [
+        104
+      ],
+      "GSP:": [
+        105
+      ],
+      "general": [
+        107,
+        184
+      ],
+      "awareness": [
+        108
+      ],
+      "personal,": [
+        110
+      ],
+      "organizational,": [
+        111
+      ],
+      "societal": [
+        113,
+        233,
+        289
+      ],
+      "realities": [
+        114
+      ],
+      "how": [
+        116
+      ],
+      "they": [
+        117
+      ],
+      "can": [
+        118
+      ],
+      "influence": [
+        119
+      ],
+      "MEEG": [
+        120,
+        221,
+        260
+      ],
+      "research.": [
+        121
+      ],
+      "This": [
+        122
+      ],
+      "article": [
+        123
+      ],
+      "provides": [
+        124
+      ],
+      "an": [
+        125
+      ],
+      "extensive": [
+        126
+      ],
+      "report": [
+        127
+      ],
+      "most": [
+        129
+      ],
+      "contributions": [
+        133
+      ],
+      "literature,": [
+        136
+      ],
+      "additional": [
+        139
+      ],
+      "aim": [
+        140
+      ],
+      "synthesize": [
+        142
+      ],
+      "ongoing": [
+        143
+      ],
+      "cultural": [
+        144
+      ],
+      "changes": [
+        145
+      ],
+      "GSP.": [
+        147
+      ],
+      "It": [
+        148
+      ],
+      "first": [
+        149
+      ],
+      "covers": [
+        150,
+        191
+      ],
+      "respect": [
+        153,
+        194
+      ],
+      "cognitive": [
+        155
+      ],
+      "biases": [
+        156
+      ],
+      "logical": [
+        158
+      ],
+      "fallacies,": [
+        159
+      ],
+      "pre-registration": [
+        160
+      ],
+      "as": [
+        161,
+        182
+      ],
+      "tool": [
+        163
+      ],
+      "avoid": [
+        165
+      ],
+      "those": [
+        166
+      ],
+      "other": [
+        168,
+        237
+      ],
+      "early": [
+        169
+      ],
+      "pitfalls,": [
+        170
+      ],
+      "number": [
+        173
+      ],
+      "resources": [
+        175
+      ],
+      "enable": [
+        177
+      ],
+      "collaborative": [
+        178,
+        209
+      ],
+      "reproducible": [
+        180
+      ],
+      "approach": [
+        185
+      ],
+      "minimize": [
+        187
+      ],
+      "misconceptions.": [
+        188
+      ],
+      "Second,": [
+        189
+      ],
+      "it": [
+        190
+      ],
+      "data": [
+        196
+      ],
+      "acquisition,": [
+        197
+      ],
+      "analysis,": [
+        198
+      ],
+      "reporting,": [
+        199
+      ],
+      "sharing,": [
+        201
+      ],
+      "including": [
+        202
+      ],
+      "tools": [
+        204
+      ],
+      "frameworks": [
+        206
+      ],
+      "support": [
+        208
+      ],
+      "work.": [
+        210
+      ],
+      "Finally,": [
+        211
+      ],
+      "considered": [
+        214
+      ],
+      "light": [
+        216
+      ],
+      "ethical": [
+        218
+      ],
+      "implications": [
+        219
+      ],
+      "resulting": [
+        225
+      ],
+      "responsibility": [
+        226
+      ],
+      "have": [
+        229
+      ],
+      "engage": [
+        231
+      ],
+      "challenges.": [
+        234
+      ],
+      "Considering": [
+        235
+      ],
+      "among": [
+        236
+      ],
+      "things": [
+        238
+      ],
+      "benefits": [
+        240
+      ],
+      "peer": [
+        242
+      ],
+      "review": [
+        243
+      ],
+      "open": [
+        245
+      ],
+      "access": [
+        246
+      ],
+      "all": [
+        248
+      ],
+      "stages,": [
+        249
+      ],
+      "need": [
+        251
+      ],
+      "coordinate": [
+        253
+      ],
+      "larger": [
+        254
+      ],
+      "international": [
+        255
+      ],
+      "projects,": [
+        256
+      ],
+      "complexity": [
+        258
+      ],
+      "subject": [
+        261
+      ],
+      "matter,": [
+        262
+      ],
+      "today's": [
+        264
+      ],
+      "prioritization": [
+        265
+      ],
+      "fairness,": [
+        267
+      ],
+      "privacy,": [
+        268
+      ],
+      "environment,": [
+        271
+      ],
+      "we": [
+        272
+      ],
+      "find": [
+        273
+      ],
+      "current": [
+        275
+      ],
+      "tends": [
+        277
+      ],
+      "favor": [
+        279
+      ],
+      "collective": [
+        280
+      ],
+      "cooperative": [
+        282
+      ],
+      "work,": [
+        283
+      ],
+      "reasons.": [
+        290
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4220935930",
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2023-11-26T20:03:43.877016",
+    "created_date": "2022-04-03"
+  },
+  {
+    "id": "https://openalex.org/W4224316333",
+    "doi": "https://doi.org/10.1038/s42003-022-03265-4",
+    "title": "The medial occipital longitudinal tract supports early stage encoding of visuospatial information",
+    "display_name": "The medial occipital longitudinal tract supports early stage encoding of visuospatial information",
+    "relevance_score": 94.7397,
+    "publication_year": 2022,
+    "publication_date": "2022-04-05",
+    "ids": {
+      "openalex": "https://openalex.org/W4224316333",
+      "doi": "https://doi.org/10.1038/s42003-022-03265-4",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/35383284"
+    },
+    "language": "en",
+    "primary_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s42003-022-03265-4",
+      "pdf_url": "https://www.nature.com/articles/s42003-022-03265-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210225776",
+        "display_name": "Communications biology",
+        "issn_l": "2399-3642",
+        "issn": [
+          "2399-3642"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "type": "article",
+    "type_crossref": "journal-article",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s42003-022-03265-4.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5051625521",
+          "display_name": "Ahmad Beyh",
+          "orcid": "https://orcid.org/0000-0001-9071-0150"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165524941",
+            "display_name": "Wellcome Centre for Human Neuroimaging",
+            "ror": "https://ror.org/02704qw51",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I115076166",
+              "https://openalex.org/I149460656",
+              "https://openalex.org/I165524941",
+              "https://openalex.org/I183623424",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I87048295"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ahmad Beyh",
+        "raw_affiliation_string": "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, SE5 8AF, UK. ahmad.beyh@kcl.ac.uk.",
+        "raw_affiliation_strings": [
+          "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, SE5 8AF, UK. ahmad.beyh@kcl.ac.uk."
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5042483694",
+          "display_name": "Flavio Dell\u2019Acqua",
+          "orcid": "https://orcid.org/0000-0001-5313-5476"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Flavio Dell'Acqua",
+        "raw_affiliation_string": "NatBrainLab, Sackler Institute for Translational Neurodevelopment, Department of Forensic and Neurodevelopmental Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "NatBrainLab, Sackler Institute for Translational Neurodevelopment, Department of Forensic and Neurodevelopmental Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5083409298",
+          "display_name": "Daniele Cancemi",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165524941",
+            "display_name": "Wellcome Centre for Human Neuroimaging",
+            "ror": "https://ror.org/02704qw51",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I115076166",
+              "https://openalex.org/I149460656",
+              "https://openalex.org/I165524941",
+              "https://openalex.org/I183623424",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I87048295"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Daniele Cancemi",
+        "raw_affiliation_string": "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5019762729",
+          "display_name": "Francisco De Santiago Requejo",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165524941",
+            "display_name": "Wellcome Centre for Human Neuroimaging",
+            "ror": "https://ror.org/02704qw51",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I115076166",
+              "https://openalex.org/I149460656",
+              "https://openalex.org/I165524941",
+              "https://openalex.org/I183623424",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I87048295"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Francisco De Santiago Requejo",
+        "raw_affiliation_string": "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5035170014",
+          "display_name": "Dominic H. ffytche",
+          "orcid": "https://orcid.org/0000-0002-4214-9642"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dominic Ffytche",
+        "raw_affiliation_string": "Department of Old Age Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "Department of Old Age Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK"
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5010073100",
+          "display_name": "Marco Catani",
+          "orcid": "https://orcid.org/0000-0002-5488-6463"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165524941",
+            "display_name": "Wellcome Centre for Human Neuroimaging",
+            "ror": "https://ror.org/02704qw51",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I115076166",
+              "https://openalex.org/I149460656",
+              "https://openalex.org/I165524941",
+              "https://openalex.org/I183623424",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I87048295"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Marco Catani",
+        "raw_affiliation_string": "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "NatBrainLab, Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King\u2019s College London, London, UK"
+        ]
+      }
+    ],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5051625521"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I165524941",
+      "https://openalex.org/I183935753"
+    ],
+    "apc_list": {
+      "value": 2680,
+      "currency": "EUR",
+      "value_usd": 2890,
+      "provenance": "doaj"
+    },
+    "apc_paid": {
+      "value": 2680,
+      "currency": "EUR",
+      "value_usd": 2890,
+      "provenance": "doaj"
+    },
+    "has_fulltext": true,
+    "fulltext_origin": "pdf",
+    "cited_by_count": 3,
+    "cited_by_percentile_year": {
+      "min": 86.4,
+      "max": 89.7
+    },
+    "biblio": {
+      "volume": "5",
+      "issue": "1",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "keywords": [
+      {
+        "keyword": "medial occipital",
+        "score": 0.6408
+      },
+      {
+        "keyword": "visuospatial information",
+        "score": 0.6119
+      },
+      {
+        "keyword": "longitudinal tract",
+        "score": 0.5183
+      },
+      {
+        "keyword": "early stage encoding",
+        "score": 0.3304
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777193593",
+        "wikidata": "https://www.wikidata.org/wiki/Q15130814",
+        "display_name": "Cingulum (brain)",
+        "level": 5,
+        "score": 0.8600086
+      },
+      {
+        "id": "https://openalex.org/C84787856",
+        "wikidata": "https://www.wikidata.org/wiki/Q3076659",
+        "display_name": "Tractography",
+        "level": 4,
+        "score": 0.67030656
+      },
+      {
+        "id": "https://openalex.org/C2781192897",
+        "wikidata": "https://www.wikidata.org/wiki/Q822050",
+        "display_name": "White matter",
+        "level": 3,
+        "score": 0.6642579
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.6064122
+      },
+      {
+        "id": "https://openalex.org/C149550507",
+        "wikidata": "https://www.wikidata.org/wiki/Q899360",
+        "display_name": "Diffusion MRI",
+        "level": 3,
+        "score": 0.5265608
+      },
+      {
+        "id": "https://openalex.org/C2780200011",
+        "wikidata": "https://www.wikidata.org/wiki/Q7317081",
+        "display_name": "Retrosplenial cortex",
+        "level": 3,
+        "score": 0.5119268
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.48744252
+      },
+      {
+        "id": "https://openalex.org/C2777348757",
+        "wikidata": "https://www.wikidata.org/wiki/Q2346577",
+        "display_name": "Cortex (anatomy)",
+        "level": 2,
+        "score": 0.3540452
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.332061
+      },
+      {
+        "id": "https://openalex.org/C89916169",
+        "wikidata": "https://www.wikidata.org/wiki/Q17014600",
+        "display_name": "Fractional anisotropy",
+        "level": 4,
+        "score": 0.2182667
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.13371858
+      },
+      {
+        "id": "https://openalex.org/C143409427",
+        "wikidata": "https://www.wikidata.org/wiki/Q161238",
+        "display_name": "Magnetic resonance imaging",
+        "level": 2,
+        "score": 0.11379954
+      },
+      {
+        "id": "https://openalex.org/C126838900",
+        "wikidata": "https://www.wikidata.org/wiki/Q77604",
+        "display_name": "Radiology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D009415",
+        "descriptor_name": "Nerve Net",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D066127",
+        "descriptor_name": "White Matter",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008279",
+        "descriptor_name": "Magnetic Resonance Imaging",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010296",
+        "descriptor_name": "Parietal Lobe",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D013702",
+        "descriptor_name": "Temporal Lobe",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s42003-022-03265-4",
+        "pdf_url": "https://www.nature.com/articles/s42003-022-03265-4.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210225776",
+          "display_name": "Communications biology",
+          "issn_l": "2399-3642",
+          "issn": [
+            "2399-3642"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://kclpure.kcl.ac.uk/ws/files/171110519/The_medial_occipital_longitudinal_BEYH_Publishedonline5April2022_GOLD_VoR_CC_BY_.pdf",
+        "pdf_url": "https://kclpure.kcl.ac.uk/ws/files/171110519/The_medial_occipital_longitudinal_BEYH_Publishedonline5April2022_GOLD_VoR_CC_BY_.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400216",
+          "display_name": "Research Portal (King's College London)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I183935753",
+          "host_organization_name": "King's College London",
+          "host_organization_lineage": [
+            "https://openalex.org/I183935753"
+          ],
+          "host_organization_lineage_names": [
+            "King's College London"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8983765",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [
+            "National Institutes of Health"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1101/2021.06.08.442147",
+        "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/10/23/2021.06.08.442147.full.pdf",
+        "source": null,
+        "license": "cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false
+      },
+      {
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35383284",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [
+            "National Institutes of Health"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false
+      }
+    ],
+    "best_oa_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s42003-022-03265-4",
+      "pdf_url": "https://www.nature.com/articles/s42003-022-03265-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210225776",
+        "display_name": "Communications biology",
+        "issn_l": "2399-3642",
+        "issn": [
+          "2399-3642"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/4",
+        "display_name": "Quality Education",
+        "score": 0.23
+      }
+    ],
+    "grants": [
+      {
+        "funder": "https://openalex.org/F4320307874",
+        "funder_display_name": "Wellcome",
+        "award_id": "103759/Z/14/Z"
+      }
+    ],
+    "referenced_works_count": 72,
+    "referenced_works": [
+      "https://openalex.org/W1523928687",
+      "https://openalex.org/W1602603054",
+      "https://openalex.org/W1619178479",
+      "https://openalex.org/W1933717971",
+      "https://openalex.org/W1964991931",
+      "https://openalex.org/W1970006557",
+      "https://openalex.org/W1970928383",
+      "https://openalex.org/W1983208069",
+      "https://openalex.org/W1984453610",
+      "https://openalex.org/W1996348120",
+      "https://openalex.org/W2002353920",
+      "https://openalex.org/W2009120241",
+      "https://openalex.org/W2016397022",
+      "https://openalex.org/W2019959151",
+      "https://openalex.org/W2020044743",
+      "https://openalex.org/W2023366928",
+      "https://openalex.org/W2025793187",
+      "https://openalex.org/W2030235290",
+      "https://openalex.org/W2042227855",
+      "https://openalex.org/W2049672605",
+      "https://openalex.org/W2052515926",
+      "https://openalex.org/W2065671757",
+      "https://openalex.org/W2072520470",
+      "https://openalex.org/W2073588997",
+      "https://openalex.org/W2074971623",
+      "https://openalex.org/W2081939415",
+      "https://openalex.org/W2082259851",
+      "https://openalex.org/W2084404187",
+      "https://openalex.org/W2084850449",
+      "https://openalex.org/W2088150485",
+      "https://openalex.org/W2088935772",
+      "https://openalex.org/W2089429874",
+      "https://openalex.org/W2106514696",
+      "https://openalex.org/W2110798659",
+      "https://openalex.org/W2115376779",
+      "https://openalex.org/W2120940453",
+      "https://openalex.org/W2123039986",
+      "https://openalex.org/W2124757386",
+      "https://openalex.org/W2125935651",
+      "https://openalex.org/W2127309075",
+      "https://openalex.org/W2130434586",
+      "https://openalex.org/W2133097426",
+      "https://openalex.org/W2133188546",
+      "https://openalex.org/W2135068504",
+      "https://openalex.org/W2135214347",
+      "https://openalex.org/W2136022845",
+      "https://openalex.org/W2136145485",
+      "https://openalex.org/W2145444961",
+      "https://openalex.org/W2150652656",
+      "https://openalex.org/W2151350602",
+      "https://openalex.org/W2153017955",
+      "https://openalex.org/W2153734301",
+      "https://openalex.org/W2156266701",
+      "https://openalex.org/W2158611774",
+      "https://openalex.org/W2163131251",
+      "https://openalex.org/W2167670126",
+      "https://openalex.org/W2171446004",
+      "https://openalex.org/W2394929636",
+      "https://openalex.org/W2463784123",
+      "https://openalex.org/W2470259419",
+      "https://openalex.org/W2499800833",
+      "https://openalex.org/W2516139546",
+      "https://openalex.org/W2606548806",
+      "https://openalex.org/W2618472420",
+      "https://openalex.org/W2625078872",
+      "https://openalex.org/W2885047677",
+      "https://openalex.org/W2906781377",
+      "https://openalex.org/W2949541146",
+      "https://openalex.org/W2951137108",
+      "https://openalex.org/W2958467663",
+      "https://openalex.org/W3140146909",
+      "https://openalex.org/W4233041262"
+    ],
+    "related_works": [
+      "https://openalex.org/W2002357311",
+      "https://openalex.org/W2160793440",
+      "https://openalex.org/W3036187894",
+      "https://openalex.org/W2327564191",
+      "https://openalex.org/W57104752",
+      "https://openalex.org/W2364198307",
+      "https://openalex.org/W2376425756",
+      "https://openalex.org/W2001037511",
+      "https://openalex.org/W1977760756",
+      "https://openalex.org/W2142608172"
+    ],
+    "ngrams_url": "https://api.openalex.org/works/W4224316333/ngrams",
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Visuospatial": [
+        1
+      ],
+      "learning": [
+        2
+      ],
+      "depends": [
+        3
+      ],
+      "on": [
+        4,
+        62,
+        138
+      ],
+      "the": [
+        5,
+        40,
+        70,
+        74,
+        86,
+        90,
+        96,
+        108,
+        114,
+        128,
+        149,
+        164,
+        182
+      ],
+      "parahippocampal": [
+        6
+      ],
+      "place": [
+        7,
+        19
+      ],
+      "area": [
+        8,
+        13,
+        27
+      ],
+      "(PPA),": [
+        9
+      ],
+      "a": [
+        10,
+        58,
+        120
+      ],
+      "functionally": [
+        11
+      ],
+      "heterogenous": [
+        12
+      ],
+      "which": [
+        14
+      ],
+      "current": [
+        15,
+        55,
+        190
+      ],
+      "visuospatial": [
+        16,
+        156,
+        191
+      ],
+      "processing": [
+        17,
+        192
+      ],
+      "models": [
+        18
+      ],
+      "downstream": [
+        20
+      ],
+      "from": [
+        21,
+        26,
+        85,
+        127
+      ],
+      "parietal": [
+        22
+      ],
+      "cortex": [
+        23,
+        32
+      ],
+      "and": [
+        24,
+        42,
+        48,
+        93,
+        111,
+        130,
+        143,
+        166,
+        176,
+        186
+      ],
+      "only": [
+        25
+      ],
+      "V4": [
+        28
+      ],
+      "of": [
+        29,
+        76,
+        155
+      ],
+      "early": [
+        30,
+        152
+      ],
+      "visual": [
+        31
+      ],
+      "(EVC).": [
+        33
+      ],
+      "However,": [
+        34
+      ],
+      "evidence": [
+        35,
+        68
+      ],
+      "for": [
+        36,
+        188
+      ],
+      "anatomical": [
+        37
+      ],
+      "connections": [
+        38,
+        50
+      ],
+      "between": [
+        39,
+        163
+      ],
+      "PPA": [
+        41,
+        71,
+        92,
+        110,
+        165
+      ],
+      "other": [
+        43
+      ],
+      "EVC": [
+        44,
+        105
+      ],
+      "areas": [
+        45,
+        106
+      ],
+      "is": [
+        46,
+        125
+      ],
+      "inconsistent,": [
+        47
+      ],
+      "these": [
+        49
+      ],
+      "are": [
+        51
+      ],
+      "not": [
+        52
+      ],
+      "discussed": [
+        53
+      ],
+      "in": [
+        54,
+        135,
+        174
+      ],
+      "models.": [
+        56,
+        193
+      ],
+      "Through": [
+        57
+      ],
+      "data-driven": [
+        59
+      ],
+      "analysis": [
+        60,
+        142
+      ],
+      "based": [
+        61
+      ],
+      "diffusion": [
+        63
+      ],
+      "MRI": [
+        64
+      ],
+      "tractography,": [
+        65
+      ],
+      "we": [
+        66,
+        132,
+        146
+      ],
+      "present": [
+        67
+      ],
+      "that": [
+        69,
+        124,
+        131,
+        148
+      ],
+      "sits": [
+        72
+      ],
+      "at": [
+        73
+      ],
+      "confluence": [
+        75
+      ],
+      "two": [
+        77
+      ],
+      "white": [
+        78,
+        121
+      ],
+      "matter": [
+        79,
+        122
+      ],
+      "systems.": [
+        80
+      ],
+      "The": [
+        81,
+        99
+      ],
+      "first": [
+        82
+      ],
+      "conveys": [
+        83
+      ],
+      "information": [
+        84,
+        157
+      ],
+      "retrosplenial": [
+        87
+      ],
+      "complex": [
+        88
+      ],
+      "to": [
+        89,
+        107,
+        113,
+        181
+      ],
+      "anterior": [
+        91
+      ],
+      "runs": [
+        94
+      ],
+      "within": [
+        95
+      ],
+      "cingulum": [
+        97,
+        129
+      ],
+      "bundle.": [
+        98
+      ],
+      "second": [
+        100
+      ],
+      "system": [
+        101
+      ],
+      "connects": [
+        102
+      ],
+      "all": [
+        103
+      ],
+      "peripheral": [
+        104
+      ],
+      "posterior": [
+        109
+      ],
+      "corresponds": [
+        112
+      ],
+      "medial": [
+        115,
+        183
+      ],
+      "occipital": [
+        116
+      ],
+      "longitudinal": [
+        117
+      ],
+      "tract": [
+        118
+      ],
+      "(MOLT),": [
+        119
+      ],
+      "pathway": [
+        123
+      ],
+      "distinct": [
+        126
+      ],
+      "describe": [
+        133
+      ],
+      "here": [
+        134
+      ],
+      "detail.": [
+        136
+      ],
+      "Based": [
+        137
+      ],
+      "further": [
+        139
+      ],
+      "functional": [
+        140
+      ],
+      "connectivity": [
+        141
+      ],
+      "meta-analytic": [
+        144
+      ],
+      "data,": [
+        145
+      ],
+      "propose": [
+        147
+      ],
+      "MOLT": [
+        150
+      ],
+      "supports": [
+        151
+      ],
+      "stage": [
+        153
+      ],
+      "encoding": [
+        154
+      ],
+      "by": [
+        158
+      ],
+      "allowing": [
+        159
+      ],
+      "direct": [
+        160
+      ],
+      "reciprocal": [
+        161
+      ],
+      "exchange": [
+        162
+      ],
+      "EVC.": [
+        167
+      ],
+      "Our": [
+        168
+      ],
+      "findings": [
+        169
+      ],
+      "may": [
+        170
+      ],
+      "improve": [
+        171
+      ],
+      "symptom": [
+        172
+      ],
+      "interpretation": [
+        173
+      ],
+      "stroke": [
+        175
+      ],
+      "tumour": [
+        177
+      ],
+      "patients": [
+        178
+      ],
+      "with": [
+        179
+      ],
+      "damage": [
+        180
+      ],
+      "occipito-temporal": [
+        184
+      ],
+      "region": [
+        185
+      ],
+      "call": [
+        187
+      ],
+      "revisiting": [
+        189
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4224316333",
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2023-11-22T00:59:12.906003",
+    "created_date": "2022-04-26"
+  },
+  {
+    "id": "https://openalex.org/W4386708342",
+    "doi": "https://doi.org/10.1038/s41467-023-41334-2",
+    "title": "Variation in spatial dependencies across the cortical mantle discriminates the functional behaviour of primary and association cortex",
+    "display_name": "Variation in spatial dependencies across the cortical mantle discriminates the functional behaviour of primary and association cortex",
+    "publication_year": 2023,
+    "publication_date": "2023-09-13",
+    "ids": {
+      "openalex": "https://openalex.org/W4386708342",
+      "doi": "https://doi.org/10.1038/s41467-023-41334-2",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/37704600"
+    },
+    "language": "en",
+    "primary_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-41334-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-41334-2.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "type": "article",
+    "type_crossref": "journal-article",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s41467-023-41334-2.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5007616376",
+          "display_name": "Robert Leech",
+          "orcid": "https://orcid.org/0000-0002-5801-6318"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165524941",
+            "display_name": "Wellcome Centre for Human Neuroimaging",
+            "ror": "https://ror.org/02704qw51",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I165524941",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I87048295"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Robert Leech",
+        "raw_affiliation_string": "Centre for Neuroimaging Science, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "Centre for Neuroimaging Science, King\u2019s College London, London, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5072469967",
+          "display_name": "Reinder Vos de Wael",
+          "orcid": "https://orcid.org/0000-0003-0574-6576"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210120902",
+            "display_name": "McGill Genome Centre",
+            "ror": "https://ror.org/02w2fbz15",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210120902"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I5023651",
+            "display_name": "McGill University",
+            "ror": "https://ror.org/01pxwe438",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I5023651"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Reinder Vos De Wael",
+        "raw_affiliation_string": "McConnell Brain Imaging Centre, McGill University, Montreal, Canada",
+        "raw_affiliation_strings": [
+          "McConnell Brain Imaging Centre, McGill University, Montreal, Canada"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5067848348",
+          "display_name": "Franti\u0161ek V\u00e1\u0161a",
+          "orcid": "https://orcid.org/0000-0001-6744-7139"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165524941",
+            "display_name": "Wellcome Centre for Human Neuroimaging",
+            "ror": "https://ror.org/02704qw51",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I165524941",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I87048295"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183935753",
+            "display_name": "King's College London",
+            "ror": "https://ror.org/0220mzb33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I183935753"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Franti\u0161ek V\u00e1\u0161a",
+        "raw_affiliation_string": "Centre for Neuroimaging Science, King\u2019s College London, London, UK",
+        "raw_affiliation_strings": [
+          "Centre for Neuroimaging Science, King\u2019s College London, London, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5019113400",
+          "display_name": "Ting Xu",
+          "orcid": "https://orcid.org/0000-0002-0065-3832"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103248",
+            "display_name": "Child Mind Institute",
+            "ror": "https://ror.org/01bfgxw09",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210103248"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ting Xu",
+        "raw_affiliation_string": "Center for the Developing Brain, Child Mind Institute, New York, USA",
+        "raw_affiliation_strings": [
+          "Center for the Developing Brain, Child Mind Institute, New York, USA"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5060844210",
+          "display_name": "R. Austin Benn",
+          "orcid": "https://orcid.org/0000-0003-3728-7036"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204730241",
+            "display_name": "Universit\u00e9 Paris Cit\u00e9",
+            "ror": "https://ror.org/05f82e368",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204730241"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "R. Austin Benn",
+        "raw_affiliation_string": "Integrative Neuroscience and Cognition Center (UMR 8002), Centre National de la Recherche Scientifique (CNRS) and Universit\u00e9 de Paris, Paris, France",
+        "raw_affiliation_strings": [
+          "Integrative Neuroscience and Cognition Center (UMR 8002), Centre National de la Recherche Scientifique (CNRS) and Universit\u00e9 de Paris, Paris, France"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5083530253",
+          "display_name": "Robert Scholz",
+          "orcid": "https://orcid.org/0000-0001-7061-4882"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210130445",
+            "display_name": "Max Planck Institute for Human Cognitive and Brain Sciences",
+            "ror": "https://ror.org/0387jng26",
+            "country_code": "DE",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I149899117",
+              "https://openalex.org/I4210130445"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Robert Scholz",
+        "raw_affiliation_string": "Max Planck School of Cognition, Leipzig, Germany",
+        "raw_affiliation_strings": [
+          "Max Planck School of Cognition, Leipzig, Germany"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5010258744",
+          "display_name": "Rodrigo M. Braga",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I111979921",
+            "display_name": "Northwestern University",
+            "ror": "https://ror.org/000e0be47",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I111979921"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rodrigo M. Braga",
+        "raw_affiliation_string": "Neurology, Interdepartmental Neuroscience Program, Northwestern University, Evanston, USA",
+        "raw_affiliation_strings": [
+          "Neurology, Interdepartmental Neuroscience Program, Northwestern University, Evanston, USA"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046014044",
+          "display_name": "Michael P. Milham",
+          "orcid": "https://orcid.org/0000-0003-3532-1210"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103248",
+            "display_name": "Child Mind Institute",
+            "ror": "https://ror.org/01bfgxw09",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210103248"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michael P. Milham",
+        "raw_affiliation_string": "Center for the Developing Brain, Child Mind Institute, New York, USA",
+        "raw_affiliation_strings": [
+          "Center for the Developing Brain, Child Mind Institute, New York, USA"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5038149649",
+          "display_name": "Jessica Royer",
+          "orcid": "https://orcid.org/0000-0002-4448-8998"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210120902",
+            "display_name": "McGill Genome Centre",
+            "ror": "https://ror.org/02w2fbz15",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210120902"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I5023651",
+            "display_name": "McGill University",
+            "ror": "https://ror.org/01pxwe438",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I5023651"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jessica Royer",
+        "raw_affiliation_string": "McConnell Brain Imaging Centre, McGill University, Montreal, Canada",
+        "raw_affiliation_strings": [
+          "McConnell Brain Imaging Centre, McGill University, Montreal, Canada"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5005096130",
+          "display_name": "Boris C. Bernhardt",
+          "orcid": "https://orcid.org/0000-0001-9256-6041"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210120902",
+            "display_name": "McGill Genome Centre",
+            "ror": "https://ror.org/02w2fbz15",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210120902"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I5023651",
+            "display_name": "McGill University",
+            "ror": "https://ror.org/01pxwe438",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I5023651"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Boris C. Bernhardt",
+        "raw_affiliation_string": "McConnell Brain Imaging Centre, McGill University, Montreal, Canada",
+        "raw_affiliation_strings": [
+          "McConnell Brain Imaging Centre, McGill University, Montreal, Canada"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5055797237",
+          "display_name": "Emily J.H. Jones",
+          "orcid": "https://orcid.org/0000-0001-8176-9185"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98259816",
+            "display_name": "Birkbeck, University of London",
+            "ror": "https://ror.org/02mb95055",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I98259816"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Emily J. H. Jones",
+        "raw_affiliation_string": "Centre for Brain and Cognitive Development, Birkbeck College, University of London, London, UK",
+        "raw_affiliation_strings": [
+          "Centre for Brain and Cognitive Development, Birkbeck College, University of London, London, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5062704227",
+          "display_name": "Elizabeth Jefferies",
+          "orcid": "https://orcid.org/0000-0002-3826-4330"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I52099693",
+            "display_name": "University of York",
+            "ror": "https://ror.org/04m01e293",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52099693"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Elizabeth Jefferies",
+        "raw_affiliation_string": "Department of Psychology, University of York, York, UK",
+        "raw_affiliation_strings": [
+          "Department of Psychology, University of York, York, UK"
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5017233630",
+          "display_name": "Daniel S. Margulies",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204730241",
+            "display_name": "Universit\u00e9 Paris Cit\u00e9",
+            "ror": "https://ror.org/05f82e368",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204730241"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I1294671590",
+            "display_name": "French National Centre for Scientific Research",
+            "ror": "https://ror.org/02feahw73",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1294671590"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Daniel S. Margulies",
+        "raw_affiliation_string": "Integrative Neuroscience and Cognition Center (UMR 8002), Centre National de la Recherche Scientifique (CNRS) and Universit\u00e9 de Paris, Paris, France",
+        "raw_affiliation_strings": [
+          "Integrative Neuroscience and Cognition Center (UMR 8002), Centre National de la Recherche Scientifique (CNRS) and Universit\u00e9 de Paris, Paris, France"
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5088006732",
+          "display_name": "Jonathan Smallwood",
+          "orcid": "https://orcid.org/0000-0002-7298-2459"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204722609",
+            "display_name": "Queen's University",
+            "ror": "https://ror.org/02y72wh86",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204722609"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jonathan Smallwood",
+        "raw_affiliation_string": "Department of Psychology, Queens University, Kingston, Canada",
+        "raw_affiliation_strings": [
+          "Department of Psychology, Queens University, Kingston, Canada"
+        ]
+      }
+    ],
+    "countries_distinct_count": 5,
+    "institutions_distinct_count": 12,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5007616376"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I165524941",
+      "https://openalex.org/I183935753"
+    ],
+    "apc_list": {
+      "value": 3920,
+      "currency": "GBP",
+      "value_usd": 4808,
+      "provenance": "doaj"
+    },
+    "apc_paid": {
+      "value": 3920,
+      "currency": "GBP",
+      "value_usd": 4808,
+      "provenance": "doaj"
+    },
+    "has_fulltext": true,
+    "fulltext_origin": "pdf",
+    "cited_by_count": 0,
+    "cited_by_percentile_year": {
+      "min": 0.0,
+      "max": 87.5
+    },
+    "biblio": {
+      "volume": "14",
+      "issue": "1",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "keywords": [
+      {
+        "keyword": "cortical mantle",
+        "score": 0.6846
+      },
+      {
+        "keyword": "spatial dependencies",
+        "score": 0.4424
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.6566961
+      },
+      {
+        "id": "https://openalex.org/C2777348757",
+        "wikidata": "https://www.wikidata.org/wiki/Q2346577",
+        "display_name": "Cortex (anatomy)",
+        "level": 2,
+        "score": 0.6335686
+      },
+      {
+        "id": "https://openalex.org/C2779345533",
+        "wikidata": "https://www.wikidata.org/wiki/Q75785",
+        "display_name": "Visual cortex",
+        "level": 2,
+        "score": 0.54433805
+      },
+      {
+        "id": "https://openalex.org/C142853389",
+        "wikidata": "https://www.wikidata.org/wiki/Q744778",
+        "display_name": "Association (psychology)",
+        "level": 2,
+        "score": 0.5400591
+      },
+      {
+        "id": "https://openalex.org/C94487597",
+        "wikidata": "https://www.wikidata.org/wiki/Q11101",
+        "display_name": "Sensory system",
+        "level": 2,
+        "score": 0.5177969
+      },
+      {
+        "id": "https://openalex.org/C6757342",
+        "wikidata": "https://www.wikidata.org/wiki/Q3486606",
+        "display_name": "Posterior parietal cortex",
+        "level": 2,
+        "score": 0.4984789
+      },
+      {
+        "id": "https://openalex.org/C2781041448",
+        "wikidata": "https://www.wikidata.org/wiki/Q75839",
+        "display_name": "Cerebral cortex",
+        "level": 2,
+        "score": 0.4712917
+      },
+      {
+        "id": "https://openalex.org/C3018011982",
+        "wikidata": "https://www.wikidata.org/wiki/Q7316120",
+        "display_name": "Functional connectivity",
+        "level": 2,
+        "score": 0.46588865
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.42821565
+      },
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.41547382
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.2997962
+      },
+      {
+        "id": "https://openalex.org/C542102704",
+        "wikidata": "https://www.wikidata.org/wiki/Q183257",
+        "display_name": "Psychotherapist",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D003071",
+        "descriptor_name": "Cognition",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D066191",
+        "descriptor_name": "Sensorimotor Cortex",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D062206",
+        "descriptor_name": "Spatial Analysis",
+        "qualifier_ui": "",
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41467-023-41334-2",
+        "pdf_url": "https://www.nature.com/articles/s41467-023-41334-2.pdf",
+        "source": {
+          "id": "https://openalex.org/S64187185",
+          "display_name": "Nature Communications",
+          "issn_l": "2041-1723",
+          "issn": [
+            "2041-1723"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37704600",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [
+            "National Institutes of Health"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false
+      }
+    ],
+    "best_oa_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-41334-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-41334-2.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/10",
+        "display_name": "Reduced inequalities",
+        "score": 0.77
+      },
+      {
+        "id": "https://metadata.un.org/sdg/16",
+        "display_name": "Peace, Justice and strong institutions",
+        "score": 0.15
+      }
+    ],
+    "grants": [],
+    "referenced_works_count": 47,
+    "referenced_works": [
+      "https://openalex.org/W1760829075",
+      "https://openalex.org/W1951512061",
+      "https://openalex.org/W1975821649",
+      "https://openalex.org/W1979767955",
+      "https://openalex.org/W1982728009",
+      "https://openalex.org/W1990960914",
+      "https://openalex.org/W1999653836",
+      "https://openalex.org/W2021384012",
+      "https://openalex.org/W2034676897",
+      "https://openalex.org/W2043553533",
+      "https://openalex.org/W2047358124",
+      "https://openalex.org/W2055550827",
+      "https://openalex.org/W2067456724",
+      "https://openalex.org/W2093793583",
+      "https://openalex.org/W2096672020",
+      "https://openalex.org/W2098580305",
+      "https://openalex.org/W2104744815",
+      "https://openalex.org/W2120357670",
+      "https://openalex.org/W2124757386",
+      "https://openalex.org/W2131412367",
+      "https://openalex.org/W2135955567",
+      "https://openalex.org/W2142013204",
+      "https://openalex.org/W2147546041",
+      "https://openalex.org/W2148519294",
+      "https://openalex.org/W2148601705",
+      "https://openalex.org/W2157446241",
+      "https://openalex.org/W2160623437",
+      "https://openalex.org/W2167546316",
+      "https://openalex.org/W2167845354",
+      "https://openalex.org/W2536956629",
+      "https://openalex.org/W2548373153",
+      "https://openalex.org/W2556590024",
+      "https://openalex.org/W2737241688",
+      "https://openalex.org/W2898672092",
+      "https://openalex.org/W2950455844",
+      "https://openalex.org/W2952704249",
+      "https://openalex.org/W2971683016",
+      "https://openalex.org/W2999771817",
+      "https://openalex.org/W3010641024",
+      "https://openalex.org/W3036199858",
+      "https://openalex.org/W3155846106",
+      "https://openalex.org/W3168223311",
+      "https://openalex.org/W3179426622",
+      "https://openalex.org/W4213346165",
+      "https://openalex.org/W4281842027",
+      "https://openalex.org/W4295750005",
+      "https://openalex.org/W4381060408"
+    ],
+    "related_works": [
+      "https://openalex.org/W2473912130",
+      "https://openalex.org/W2082639675",
+      "https://openalex.org/W2034574984",
+      "https://openalex.org/W1993532945",
+      "https://openalex.org/W1983975291",
+      "https://openalex.org/W1995132808",
+      "https://openalex.org/W1994056074",
+      "https://openalex.org/W2432783729",
+      "https://openalex.org/W1998954876",
+      "https://openalex.org/W2015845327"
+    ],
+    "ngrams_url": "https://api.openalex.org/works/W4386708342/ngrams",
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Recent": [
+        1
+      ],
+      "theories": [
+        2
+      ],
+      "of": [
+        3,
+        8,
+        15,
+        43,
+        66,
+        76,
+        110,
+        137,
+        140
+      ],
+      "cortical": [
+        4,
+        88
+      ],
+      "organisation": [
+        5
+      ],
+      "suggest": [
+        6
+      ],
+      "features": [
+        7,
+        139
+      ],
+      "function": [
+        9,
+        82,
+        92,
+        130
+      ],
+      "emerge": [
+        10
+      ],
+      "from": [
+        11,
+        25
+      ],
+      "the": [
+        12,
+        85,
+        107,
+        135
+      ],
+      "spatial": [
+        13,
+        77
+      ],
+      "arrangement": [
+        14
+      ],
+      "brain": [
+        16
+      ],
+      "regions.": [
+        17,
+        89
+      ],
+      "For": [
+        18
+      ],
+      "example,": [
+        19
+      ],
+      "association": [
+        20,
+        102,
+        123
+      ],
+      "cortex": [
+        21,
+        33,
+        100,
+        111
+      ],
+      "is": [
+        22,
+        34,
+        47
+      ],
+      "located": [
+        23
+      ],
+      "furthest": [
+        24
+      ],
+      "systems": [
+        26,
+        105
+      ],
+      "involved": [
+        27
+      ],
+      "in": [
+        28
+      ],
+      "action": [
+        29
+      ],
+      "and": [
+        30,
+        114,
+        122,
+        149
+      ],
+      "perception.": [
+        31
+      ],
+      "Association": [
+        32
+      ],
+      "also": [
+        35
+      ],
+      "\u2018interdigitated\u2019": [
+        36
+      ],
+      "with": [
+        37,
+        84,
+        94
+      ],
+      "adjacent": [
+        38
+      ],
+      "regions": [
+        39
+      ],
+      "having": [
+        40
+      ],
+      "different": [
+        41
+      ],
+      "patterns": [
+        42
+      ],
+      "functional": [
+        44
+      ],
+      "connectivity.": [
+        45
+      ],
+      "It": [
+        46
+      ],
+      "assumed": [
+        48
+      ],
+      "that": [
+        49
+      ],
+      "topographic": [
+        50
+      ],
+      "properties,": [
+        51
+      ],
+      "such": [
+        52
+      ],
+      "as": [
+        53
+      ],
+      "distance": [
+        54,
+        86,
+        95
+      ],
+      "between": [
+        55,
+        87
+      ],
+      "regions,": [
+        56
+      ],
+      "constrains": [
+        57
+      ],
+      "their": [
+        58
+      ],
+      "functions,": [
+        59
+      ],
+      "however,": [
+        60
+      ],
+      "we": [
+        61,
+        71
+      ],
+      "lack": [
+        62
+      ],
+      "a": [
+        63,
+        74,
+        141
+      ],
+      "formal": [
+        64
+      ],
+      "description": [
+        65
+      ],
+      "how": [
+        67,
+        81,
+        129
+      ],
+      "this": [
+        68
+      ],
+      "occurs.": [
+        69
+      ],
+      "Here": [
+        70
+      ],
+      "use": [
+        72
+      ],
+      "variograms,": [
+        73
+      ],
+      "quantification": [
+        75
+      ],
+      "autocorrelation,": [
+        78
+      ],
+      "to": [
+        79,
+        147
+      ],
+      "profile": [
+        80
+      ],
+      "changes": [
+        83,
+        93,
+        131
+      ],
+      "We": [
+        90
+      ],
+      "find": [
+        91
+      ],
+      "more": [
+        96
+      ],
+      "gradually": [
+        97
+      ],
+      "within": [
+        98,
+        106
+      ],
+      "sensory-motor": [
+        99
+      ],
+      "than": [
+        101
+      ],
+      "cortex.": [
+        103
+      ],
+      "Importantly,": [
+        104
+      ],
+      "same": [
+        108
+      ],
+      "type": [
+        109
+      ],
+      "(e.g.,": [
+        112
+      ],
+      "fronto-parietal": [
+        113
+      ],
+      "default": [
+        115
+      ],
+      "mode": [
+        116
+      ],
+      "networks)": [
+        117
+      ],
+      "have": [
+        118
+      ],
+      "similar": [
+        119
+      ],
+      "profiles.": [
+        120
+      ],
+      "Primary": [
+        121
+      ],
+      "cortex,": [
+        124
+      ],
+      "therefore,": [
+        125
+      ],
+      "are": [
+        126
+      ],
+      "differentiated": [
+        127
+      ],
+      "by": [
+        128
+      ],
+      "over": [
+        132
+      ],
+      "space,": [
+        133
+      ],
+      "emphasising": [
+        134
+      ],
+      "value": [
+        136
+      ],
+      "topographical": [
+        138
+      ],
+      "region": [
+        142
+      ],
+      "when": [
+        143
+      ],
+      "estimating": [
+        144
+      ],
+      "its": [
+        145
+      ],
+      "contribution": [
+        146
+      ],
+      "cognition": [
+        148
+      ],
+      "behaviour.": [
+        150
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4386708342",
+    "counts_by_year": [],
+    "updated_date": "2023-11-28T12:47:49.761609",
+    "created_date": "2023-09-14"
+  }
+]
