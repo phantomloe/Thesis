@@ -1,5 +1,5 @@
 Metric,Manual,SciRes,Material (Manual),Material (SciRes)
-Accuracy,0.77,0.77,-,-
-Precision,0.67,0.88,1.0,0.67
+Accuracy,0.69,0.77,-,-
+Precision,0.62,0.88,1.0,0.67
 Recall,0.79,0.79,1.0,1.0
-F1-Score,0.72,0.79,1.0,0.8
+F1-Score,0.69,0.79,1.0,0.8
