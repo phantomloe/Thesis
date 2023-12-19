@@ -1,0 +1,11 @@
+,All,Filtered
+Articles with URLs,815,693
+Articles without URLs,0,122
+Total number of URLs,5382,2861
+Total number of unique URLs,3154,2257
+Highest number of unique URLs in an article,48,44
+Lowest number of unique URLs in an article,1,0
+Average number of unique URLs in an article,6,3
+25th Quantile of URLs in an article,4,1
+50th Quantile (Median) of URLs in an article,6,2
+75th Quantile of URLs in an article,8,5

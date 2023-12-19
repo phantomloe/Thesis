@@ -1,0 +1,8 @@
+Category,Human URLs,Code URLs,Human Sentences,Code Sentences
+Baseline (count),44.0,51.0,44.0,51.0
+Extractor (count),39.0,48.0,39.0,48.0
+Both (count),34.0,45.0,15.0,25.0
+Either (count),11.0,7.0,30.0,27.0
+Both (%),77.0,88.0,34.0,49.0
+Either (%),25.0,14.0,68.0,53.0
+Raw Agreement (%),81.9,90.9,36.1,50.5

@@ -1,6 +1,6 @@
 Placement in article,Frequency,Percentage,Matched Sections
-Availability,13,68.4,"Schaeffer data availability statement, Data availability statement, Data and code availability statement, Data and code availability, Data Availability, 2.5. Data and code availability"
-Other,10,52.6,"Fig., 2.8. Cross-modality comparisons, 2.3. Gradient analysis and reproducibility, 2.9. 25 µm marmoset brain connectome anatomical template, 2.4.2. HCP Data, 3.1. Resource, Fig. , 3.7. Comparison with tracer-based cellular connectivity, 2.5. Task fMRI analysis"
+Availability,13,68.4,"Schaeffer data availability statement, Data availability statement, Data and code availability, Data and code availability statement, Data Availability, 2.5. Data and code availability"
+Other,10,52.6,"2.3. Gradient analysis and reproducibility, Fig., 2.9. 25 µm marmoset brain connectome anatomical template, 3.1. Resource, 2.4.2. HCP Data, 3.7. Comparison with tracer-based cellular connectivity, 2.8. Cross-modality comparisons, 2.5. Task fMRI analysis, Fig. "
 Discussion,2,10.5,"Discussion, 4. Discussion"
 Abstract,1,5.3,Abstract
 Introduction,1,5.3,1. Introduction

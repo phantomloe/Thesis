@@ -1,0 +1,9 @@
+Category,Count,Percentage
+Accessible initial,276,70.2
+Inaccessible initial,117,29.8
+Inaccessible (Manually Checked),32,8.1
+Inaccessible (Bad Extraction),19,4.8
+Inaccessible (True),61,15.5
+Inaccessible (Unique),1,0.3
+Accessible (Final),308,78.4
+Inaccessible (Final),84,21.4
