@@ -1,10 +1,10 @@
 Placement in article,Matched Sections
 Abstract,Abstract
 Introduction,1. Introduction
-Method,"2. Materials and methods, 2. Methods, 2. Applied methods"
-Subject or Participant or Selection,"2.1. Patient selection and inclusion criteria, 2.1. Participants, 2.1. Subjects and data, 2.1. Subjects"
+Method,"2. Materials and methods, 2. Applied methods, 2. Methods"
+Subject or Participant or Selection,"2.1. Participants, 2.1. Subjects and data, 2.1. Patient selection and inclusion criteria, 2.1. Subjects"
 Results,3. Results
 Discussion,4. Discussion
-Availability,"Schaeffer data availability statement, Data availability statement, Data and code availability, Data availability, Data and code availability statement, Data Availability, 2.5. Data and code availability"
-Other,"2.3. Gradient analysis and reproducibility, 1. Accounting for bias in multiverse analyses, 3.1. Resource, 3.2. HCP Data, 2.4.2. HCP Data, 3.1. Synthethic data, Research data for this article, 2.4. Experiments, 3.7. Comparison with tracer-based cellular connectivity, 2.6. Genetic spatial correlation, 2.8. Cross-modality comparisons, 2.1. Animals, 3.2. Correspondence with spatial gene expression patterns, 2.4.1. Synthetic data"
-,"5. Conclusion, 5. Conclusions"
+Availability,"Schaeffer data availability statement, Data and code availability statement, Data and code availability, Data availability statement, Data availability, 2.5. Data and code availability, Data Availability"
+Other,"3.1. Synthethic data, 2.3. Gradient analysis and reproducibility, 1. Accounting for bias in multiverse analyses, 2.8. Cross-modality comparisons, 2.6. Genetic spatial correlation, 2.4.2. HCP Data, 3.7. Comparison with tracer-based cellular connectivity, 3.2. Correspondence with spatial gene expression patterns, 3.2. HCP Data, 2.4. Experiments, 2.1. Animals, 2.4.1. Synthetic data, Research data for this article, 3.1. Resource"
+,"5. Conclusions, 5. Conclusion"
