@@ -1,5 +1,5 @@
 # Thesis
-This repository contains the code for my thesis on dataset (re)use through URLs in neuroimaging. 
+This repository contains the code for my thesis on dataset (re)use in neuroimaging titled: "Hyperlinking brains: An investigation of data (re)use through URLs in neuroimaging"
 
 ## **Table of contents**
 - [Objective](#objective)
@@ -43,7 +43,7 @@ cd Thesis
 pip3 install -r requirements.txt
 ```
 
---
+---
 
 <a name='usage'></a>
 # Usage 
