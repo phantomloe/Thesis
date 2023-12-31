@@ -1,4 +1,5 @@
 # Weekly logs 
+- [Week 49-52](#week49-52)
 - [Week 48](#week48)
 - [Week 47](#week47)
 - [Week 46](#week46)
@@ -13,6 +14,9 @@
 - [Week 37](#week37) 
 - [Week 36](#week36)
 - [Week 35](#week35)
+
+<a name='week49-52'></a>
+*During weeks 49-52 I did not produce weekly updates*.
 
 <a name='week48'></a>
 # Week 48
@@ -517,29 +521,3 @@ Finding the datasets
 - As Wen et al.: using google datasets, medline
 - As your previous student: using OpenAlex
 - Other?
-
-
----------------------------------------------------------------------------------
-
-<a name='weekXX'> </a>
-# Week XX
-**What helped you this week?**
-- 
-
-**What did you achieve?**
-- 
-
-**What did you struggle with?**
-- 
-
-**What would you like to work on next week?**
-- 
-
-**Where do you need help from Veronika?**
-- 
-
-**What are the agreements after this meeting?** (to fill in after the meeting)
-- 
-
-******************************For next time******************************
-- 
