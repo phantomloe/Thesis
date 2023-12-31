@@ -8,22 +8,18 @@ This repository contains the code for my thesis on dataset (re)use through URLs 
 - [Usage](#usage) 
 - [References and credits](#referencesandcredits)
 
-<br>
 ---
-<br>
 
 <a name='objective'></a>
 # Objective
 
 In the past two decades, open science has become integral to collaborative and accessible scientific research. The gradual integration of machine learning methods in research has further influenced how researchers disseminate results and share data, particularly in neuroimaging. This study explores the landscape of URLs in NeuroImage papers from 2022, focusing on their patterns, contexts, and usage to unravel data use and reuse dynamics in neuroimaging. The findings reveal a high inclusion of URLs in the articles; however, only a minority link to data. While many data URLs are accessible, they often lead to repositories rather than specific datasets, creating ambiguity regarding dataset use. Recurring URLs and domains across the articles suggest an interconnected and standardized nature of sharing data within the NeuroImage publications.
 
-<br>
 ---
-<br>
 
 <a name='structure'></a>
 # Structure
-Each folder contains a readme.md that describes its contents. This project contains the following folders: 
+Each of the following main folders contains a readme.md that describes its contents. This project contains the following folders: 
 - Code
 - Data
 - Legacy
@@ -31,10 +27,7 @@ Each folder contains a readme.md that describes its contents. This project conta
 - Results
 - Weekly updates 
 
-
-<br>
 ---
-<br>
 
 <a name='installation'></a>
 # Installation 
@@ -50,9 +43,7 @@ cd Thesis
 pip3 install -r requirements.txt
 ```
 
-<br>
 --
-<br>
 
 <a name='usage'></a>
 # Usage 
@@ -73,10 +64,7 @@ pip3 install -r requirements.txt
 - Execute *Code/articles_groundtruth_v2.ipynb* to investigate a sample of ten randomly selected NeuroImage articles.
 - Execute *Code/reuse_NeuroImage.ipynb* to investigate the extent of (re)use among the NeuroImage articles, focusing on the common data URLs, the common domains, as well as a deep-dive into the HCPs URLs, including a look into the articles available through OpenAlex that also includes the HCPs URLs.  
 
-
-<br>
 ---
-<br>
 
 <a name='referencesandcredits'></a>
 # References and credits 
